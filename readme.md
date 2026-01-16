@@ -18,6 +18,7 @@
 - [Doki Doki Literature Club](https://github.com/EmeraldGreenR/EmeraldGreenR.github.io) - Ported by [EmeraldGreenR](https://github.com/EmeraldGreenR/)? 
 - [Doki Doki Literature Club Plus!](https://selenite.cc/resources/semag/ddlcplus/index.html) - port by [sky](https://github.com/skysthelimitt)
 - [Do NOT Take This Cat Home](https://github.com/genizy/web-port/tree/main/donottakethiscathome) - Ported by [bread](https://github.com/genizy)
+- [Doom 3](https://github.com/web-ports/doom-3) - port by [98Corbins](https://98cornbin.netlify.app)
 - [Fears to Fathom: Home Alone](https://github.com/genizy/web-port/tree/main/fears-to-fathom) - Ported by [slqnt](https://github.com/slqntdevss)
 - [FNAF](https://github.com/genizy/web-port/tree/main/fnaf) - Ported by [irv77](https://github.com/irv77)
 - [Garry's Mod](./method/gm/image.png), [2](./method/gm/Screenshot_2025-08-21_174928.png) - ported by [98Corbins](https://98cornbin.netlify.app), unreleased
