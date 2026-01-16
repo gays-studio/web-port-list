@@ -27,7 +27,7 @@
 - [Hollow Knight](https://github.com/aukak/hollow-knight) - port by [bog/aukak](https://github.com/aukak)
 - [Hollow Knight: Silksong](./method/slksng/image.png), [2](./method/slksng/image_.png), [3](./method/slksng/image__.png), [4](./method/slksng/image___.png) - decomp and port by [bog/aukak](https://github.com/aukak) and [bread](https://github.com/genizy), unreleased (silksong has 4 million assets :sob:)
 - [Jelly Drift](https://github.com/genizy/web-port/tree/main/jelly-drift)
-- [Karlson](https://github.com/genizy/web-port/tree/main/karlson) - port by NPA(https://github.com/National-Porting-Association)
+- [Karlson](https://github.com/genizy/web-port/tree/main/karlson) - port by [NPA](https://github.com/National-Porting-Association)
 - [Kindergarten 1 & 2](https://github.com/genizy/web-port/tree/main/kindergarten) - Ported by [bread](https://github.com/genizy)
 - [Lacey's Flash Games](https://github.com/genizy/web-port/tree/main/laceys-flash-games) - Ported by [bread](https://github.com/genizy)
 - [Milkman Karlson](https://github.com/genizy/web-port/tree/main/milkman-karlson) - Ported by [bog/aukak](https://github.com/aukak)
