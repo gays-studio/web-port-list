@@ -23,6 +23,7 @@
 - [Doom 3](https://github.com/web-ports/doom-3) - port by [98Corbins](https://98cornbin.netlify.app)
 - [Fears to Fathom: Home Alone](https://github.com/genizy/web-port/tree/main/fears-to-fathom) - Ported by [slqnt](https://github.com/slqntdevss)
 - [FNAF](https://github.com/genizy/web-port/tree/main/fnaf) - Ported by [irv77](https://github.com/irv77)
+- [Five Night's at Candy's](https://github.com/web-ports/fnac) - port by [bread](https://github.com/genizy)?
 - [Garry's Mod](./method/gm/image.png), [2](./method/gm/Screenshot_2025-08-21_174928.png) - port by [98Corbins](https://98cornbin.netlify.app), unreleased
 - [Gorilla Tag](https://github.com/web-ports/gorilla-tag) - port by [boolonx dot com](https://boolonx.com/)
 - [Happy Sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) - Ported by [bread](https://github.com/genizy)
