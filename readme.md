@@ -35,6 +35,7 @@
 - [Milkman Karlson](https://github.com/genizy/web-port/tree/main/milkman-karlson) - Ported by [bog/aukak](https://github.com/aukak)
 - [Nothing](https://github.com/gays-studio/nothing-wasm-web) - ported by [aj](https://github.com/ajtabjs)
 - [OMORI](https://github.com/genizy/web-port/tree/main/omori-web-port) - Ported by [bread](https://github.com/genizy)
+- Oneshot (Legacy) - ported by arandomperson
 - [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
 - [PEAK](./method/peak/image.png), [2](./method/peak/image_.png) - port by [bog/aukak](https://github.com/aukak), unreleased
 - [People Playground](https://github.com/genizy/web-port/tree/main/people-playground) - Ported by [98Corbins](https://98cornbin.netlify.app)
@@ -42,7 +43,6 @@
 - [Portal](./method/port/Screenshot_2025-08-21_115116.png), [2](./method/port/Screenshot_2025-08-21_210140.png) - ported by [98Corbins](https://98cornbin.netlify.app), unreleased
 - [Quake](https://github.com/GMH-Code/Qwasm) - port by [GMH-Code](https://github.com/GMH-Code)
 - [Quake 2](https://github.com/GMH-Code/Qwasm2) - port by [GMH-Code](https://github.com/GMH-Code)
-
 - [RAFT](https://github.com/genizy/web-port/tree/main/raft) - Ported by Ashen Arrow
 - [R.E.P.O](https://github.com/genizy/web-port/tree/main/repo) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Slender: The Eight Pages](https://github.com/genizy/web-port/tree/main/slender) - Ported by [bread](https://github.com/genizy)
