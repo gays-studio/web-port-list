@@ -68,5 +68,7 @@ all by slqnt
 - [irv77](https://github.com/irv77)
 - [koi/_flixel](https://oldgrounds.xyz/)
 - [slqnt](https://github.com/slqntdevss)
+- [sodiboo](https://github.com/sodiboo)
 - [SpanishFreddy](https://github.com/spanishfreddy)
 - [Mercury Workshop](https://github.com/MercuryWorkshop)
+- [national porting association](https://github.com/National-Porting-Association)
