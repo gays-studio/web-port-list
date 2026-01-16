@@ -91,7 +91,7 @@ all by slqnt
 - [SpanishFreddy](https://github.com/spanishfreddy)
 - [Mercury Workshop](https://github.com/MercuryWorkshop)
 - [national porting association](https://github.com/National-Porting-Association)
-- [sky](github.com/skysthelimitt) & selenite.cc)
+- [sky](github.com/skysthelimitt) & selenite.cc
 - [GMH-Code](https://github.com/GMH-Code)
 - [MattConn](github.com/MattConn)
 - [VinMannie](github.com/VinMannie)
