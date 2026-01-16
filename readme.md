@@ -24,6 +24,7 @@
 - [Fears to Fathom: Home Alone](https://github.com/genizy/web-port/tree/main/fears-to-fathom) - Ported by [slqnt](https://github.com/slqntdevss)
 - [FNAF](https://github.com/genizy/web-port/tree/main/fnaf) - Ported by [irv77](https://github.com/irv77)
 - [Garry's Mod](./method/gm/image.png), [2](./method/gm/Screenshot_2025-08-21_174928.png) - port by [98Corbins](https://98cornbin.netlify.app), unreleased
+- [Gorilla Tag](https://github.com/web-ports/gorilla-tag) - port by [boolonx dot com](https://boolonx.com/)
 - [Happy Sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) - Ported by [bread](https://github.com/genizy)
 - [Hotline Miami](https://github.com/genizy/web-port/tree/main/hotline-miami) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Hollow Knight](https://github.com/aukak/hollow-knight) - port by [bog/aukak](https://github.com/aukak)
@@ -91,7 +92,7 @@ all by slqnt
 - [SpanishFreddy](https://github.com/spanishfreddy)
 - [Mercury Workshop](https://github.com/MercuryWorkshop)
 - [national porting association](https://github.com/National-Porting-Association)
-- [sky](github.com/skysthelimitt) & selenite.cc
+- [sky](github.com/skysthelimitt) at selenite.cc
 - [GMH-Code](https://github.com/GMH-Code)
 - [MattConn](github.com/MattConn)
 - [VinMannie](github.com/VinMannie)
