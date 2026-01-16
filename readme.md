@@ -31,6 +31,7 @@
 - [Milkman Karlson](https://github.com/genizy/web-port/tree/main/milkman-karlson) - Ported by [bog/aukak](https://github.com/aukak)
 - [Nothing](https://github.com/gays-studio/nothing-wasm-web) - ported by [aj](https://github.com/ajtabjs)
 - [OMORI](https://github.com/genizy/web-port/tree/main/omori-web-port) - Ported by [bread](https://github.com/genizy)
+- [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
 - [PEAK](./method/peak/image.png), [2](./method/peak/image_.png) - port by [bog/aukak](https://github.com/aukak), unreleased
 - [People Playground](https://github.com/genizy/web-port/tree/main/people-playground) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Pizza Tower](https://github.com/genizy/web-port/tree/main/pizza-tower) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
