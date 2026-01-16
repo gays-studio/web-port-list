@@ -48,7 +48,7 @@
 - [RAFT](https://github.com/genizy/web-port/tree/main/raft) - Ported by Ashen Arrow
 - [R.E.P.O](https://github.com/genizy/web-port/tree/main/repo) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Slender: The Eight Pages](https://github.com/genizy/web-port/tree/main/slender) - Ported by [bread](https://github.com/genizy)
-- [Slime Ranchers](https://github.com/web-ports/slime-ranchers), [2](./method/sr/image.png) - port by [snubby](snubby.top)
+- [Slime Ranchers](https://github.com/web-ports/slime-ranchers), [2](./method/sr/image.png) - port by [snubby](https://snubby.top)
 - [Something](https://github.com/gays-studio/nothing-wasm-web) - ported by [aj](https://github.com/ajtabjs)
 - [Sonic the Hedgehog (2013)](https://github.com/VinMannie/Sonic-1-WASM) - ported by [MattConn](github.com/MattConn), updated by [VinMannie](https://github.com/VinMannie)
 - [Sonic the Hedgehod 2](https://github.com/VinMannie/Sonic-2-WASM) - ported by [MattConn](github.com/MattConn), updated by [VinMannie](https://github.com/VinMannie)
