@@ -23,6 +23,7 @@
 - [Happy Sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) - Ported by [bread](https://github.com/genizy)
 - [Hotline Miami](https://github.com/genizy/web-port/tree/main/hotline-miami) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Hollow Knight](https://github.com/aukak/hollow-knight) - port by [bog/aukak](https://github.com/aukak)
+[Hollow Knight: Silksong](./method/slksng/image.png), [2](./method/slksng/image_.png), [3](./method/slksng/image__.png), [4](./method/slksng/image___.png) - decomp and port by [bog/aukak](https://github.com/aukak) and [bread](https://github.com/genizy), unreleased (silksong has 4 million assets :sob:)
 - [Kindergarten 1 & 2](https://github.com/genizy/web-port/tree/main/kindergarten) - Ported by [bread](https://github.com/genizy)
 - [Lacey's Flash Games](https://github.com/genizy/web-port/tree/main/laceys-flash-games) - Ported by [bread](https://github.com/genizy)
 - [Milkman Karlson](https://github.com/genizy/web-port/tree/main/milkman-karlson) - Ported by [bog/aukak](https://github.com/aukak)
@@ -44,6 +45,9 @@
 - [Undertale Yellow](https://github.com/genizy/web-port/tree/main/undertale-yellow) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [Web Fishing](https://github.com/genizy/web-port/tree/main/web-fishing) - Ported by [bread](https://github.com/genizy)
 - [Yume Nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) - Ported by [bread](https://github.com/genizy)
+
+# decomps
+[Muck](https://github.com/sodiboo/Muck) - decomp by [sodiboo](https://github.com/sodiboo)
 
 <!--
 all by slqnt
