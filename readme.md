@@ -11,7 +11,7 @@
 - [Class of '09](https://github.com/genizy/web-port/tree/main/class-of-09) - Ported by [bread](https://github.com/genizy)
 - [Counter Strike & Half Life](https://github.com/x8BitRain/webXash/) - port by [x8BitRain](https://github.com/x8BitRain)
 - [Cuphead](https://github.com/web-ports/cuphead/) - Ported by [bread](https://github.com/genizy), Decomp by [SpanishFreddy](https://github.com/spanishfreddy) and [koi/_flixel](https://oldgrounds.xyz/)
-- [Celeste](https://github.com/MercuryWorkshop/celeste-wasm), [2](https://github.com/web-ports/celeste) - port by Mercury Workshop, modified by [bread](https://github.com/genizy)
+- [Celeste](https://github.com/MercuryWorkshop/celeste-wasm), [2](https://github.com/web-ports/celeste) - port by [Mercury Workshop](https://github.com/MercuryWorkshop), modified by [bread](https://github.com/genizy)
 - [Dead Plate](https://github.com/genizy/web-port/tree/main/dead-plate) - Ported by [bread](https://github.com/genizy)
 - [Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Deltarune](https://github.com/genizy/web-port/tree/main/deltarune) - Ported by [bread](https://github.com/genizy)
