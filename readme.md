@@ -10,9 +10,12 @@
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) - Ported by [bread](https://github.com/genizy)
 - [Class of '09](https://github.com/genizy/web-port/tree/main/class-of-09) - Ported by [bread](https://github.com/genizy)
 - [Cuphead](https://github.com/web-ports/cuphead/) - Ported by [bread](https://github.com/genizy), Decomp by [SpanishFreddy](https://github.com/spanishfreddy) and [koi/_flixel](https://oldgrounds.xyz/)
+- [Celeste](https://github.com/MercuryWorkshop/celeste-wasm),[2](https://github.com/web-ports/celeste) - port by Mercury Workshop, modified by [bread](https://github.com/genizy)
 - [Dead Plate](https://github.com/genizy/web-port/tree/main/dead-plate) - Ported by [bread](https://github.com/genizy)
 - [Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Deltarune](https://github.com/genizy/web-port/tree/main/deltarune) - Ported by [bread](https://github.com/genizy)
+- [Doki Doki Literature Club](https://github.com/EmeraldGreenR/EmeraldGreenR.github.io) - Ported by [EmeraldGreenR](https://github.com/EmeraldGreenR/)? 
+- [Doki Doki Literature Club Plus!](https://selenite.cc/resources/semag/ddlcplus/index.html) - port by [sky](https://github.com/skysthelimitt)
 - [Do NOT Take This Cat Home](https://github.com/genizy/web-port/tree/main/donottakethiscathome) - Ported by [bread](https://github.com/genizy)
 - [Fears to Fathom: Home Alone](https://github.com/genizy/web-port/tree/main/fears-to-fathom) - Ported by [slqnt](https://github.com/slqntdevss)
 - [FNAF](https://github.com/genizy/web-port/tree/main/fnaf) - Ported by [irv77](https://github.com/irv77)
