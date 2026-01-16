@@ -32,7 +32,7 @@
 - [Slender: The Eight Pages](https://github.com/genizy/web-port/tree/main/slender) - Ported by [bread](https://github.com/genizy)
 - [Something](https://github.com/gays-studio/nothing-wasm-web) -ported by [aj](https://github.com/ajtabjs)
 - [Speed Stars](https://github.com/genizy/web-port/tree/main/speed-stars) - Ported by [98Corbins](https://98cornbin.netlify.app)
-- [Terraria](http://github.com/mercuryWorkshop/terraria-wasm), [2](https://github.com/web-ports/terraria) - ported by mercuryworkshop, modified to single file by [bread](https://github.com/genizy)
+- [Terraria](http://github.com/mercuryWorkshop/terraria-wasm), [2](https://github.com/web-ports/terraria) - ported by mercuryworkshop, modified by [bread](https://github.com/genizy)
 - [That's Not My Neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) - Ported by [bread](https://github.com/genizy)
 - [The Man From the Window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) - Ported by [bread](https://github.com/genizy)
 - [Ultrakill Prelude](https://github.com/genizy/web-port/tree/main/ultrakill) - Ported by [98Corbins](https://98cornbin.netlify.app)
