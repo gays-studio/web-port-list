@@ -9,6 +9,7 @@
 - [BLOODMONEY!](https://github.com/genizy/web-port/tree/main/bloodmoney) - Ported by [bread](https://github.com/genizy)
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) - Ported by [bread](https://github.com/genizy)
 - [Class of '09](https://github.com/genizy/web-port/tree/main/class-of-09) - Ported by [bread](https://github.com/genizy)
+- [Counter Strike & Half Life](https://github.com/x8BitRain/webXash/) - port by [x8BitRain](https://github.com/x8BitRain)
 - [Cuphead](https://github.com/web-ports/cuphead/) - Ported by [bread](https://github.com/genizy), Decomp by [SpanishFreddy](https://github.com/spanishfreddy) and [koi/_flixel](https://oldgrounds.xyz/)
 - [Celeste](https://github.com/MercuryWorkshop/celeste-wasm),[2](https://github.com/web-ports/celeste) - port by Mercury Workshop, modified by [bread](https://github.com/genizy)
 - [Dead Plate](https://github.com/genizy/web-port/tree/main/dead-plate) - Ported by [bread](https://github.com/genizy)
