@@ -52,6 +52,7 @@
 - [Undertale Yellow](https://github.com/genizy/web-port/tree/main/undertale-yellow) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [Unreal Gold](https://github.com/National-Porting-Association/unrealgold-emscripten) - ported by Ashen Arrow
 - [Web Fishing](https://github.com/genizy/web-port/tree/main/web-fishing) - Ported by [bread](https://github.com/genizy)
+- [Xash3D](https://github.com/btarg/Xash3D-Emscripten) - port by mittorn
 - [Yume Nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) - Ported by [bread](https://github.com/genizy)
 
 # decomps
