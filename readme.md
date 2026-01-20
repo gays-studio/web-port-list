@@ -47,6 +47,7 @@
 - [Quake 2](https://github.com/GMH-Code/Qwasm2) - port by [GMH-Code](https://github.com/GMH-Code)
 - [RAFT](https://github.com/genizy/web-port/tree/main/raft) - Ported by Ashen Arrow
 - [R.E.P.O](https://github.com/genizy/web-port/tree/main/repo) - Ported by [98Corbins](https://98cornbin.netlify.app)
+- [RE:RUN](https://github.com/aukak/RE-RUN) - ported by [bog/aukak](https://github.com/aukak)
 - [Slender: The Eight Pages](https://github.com/genizy/web-port/tree/main/slender) - Ported by [bread](https://github.com/genizy)
 - [Slime Ranchers](https://github.com/web-ports/slime-ranchers), [2](./method/sr/image.png) - port by [snubby](https://snubby.top)
 - [Something](https://github.com/gays-studio/nothing-wasm-web) - ported by [aj](https://github.com/ajtabjs)
