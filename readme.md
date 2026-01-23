@@ -16,6 +16,7 @@
 - [Dead Plate](https://github.com/genizy/web-port/tree/main/dead-plate) - Ported by [bread](https://github.com/genizy)
 - [Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Deltarune](https://github.com/genizy/web-port/tree/main/deltarune) - Ported by [bread](https://github.com/genizy)
+- [Deltarune Chapters 3 & 4](https://aukak.itch.io/deltarune) - ported by [bog/aukak](https://github.com/aukak)
 - [Doki Doki Literature Club](https://github.com/EmeraldGreenR/EmeraldGreenR.github.io) - Ported by [EmeraldGreenR](https://github.com/EmeraldGreenR/)? 
 - [Doki Doki Literature Club Plus!](https://selenite.cc/resources/semag/ddlcplus/index.html) - port by [sky](https://github.com/skysthelimitt)
 - [Do NOT Take This Cat Home](https://github.com/genizy/web-port/tree/main/donottakethiscathome) - Ported by [bread](https://github.com/genizy)
