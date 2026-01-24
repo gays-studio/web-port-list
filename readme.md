@@ -106,10 +106,10 @@ all by slqnt
 - [SpanishFreddy](https://github.com/spanishfreddy)
 - [Mercury Workshop](https://github.com/MercuryWorkshop)
 - [national porting association](https://github.com/National-Porting-Association)
-- [sky](github.com/skysthelimitt) at selenite.cc
+- [sky](https://github.com/skysthelimitt) at selenite.cc
 - [GMH-Code](https://github.com/GMH-Code)
-- [MattConn](github.com/MattConn)
-- [VinMannie](github.com/VinMannie)
-- [chromaticpipe](github.com/chromaticpipe)
-- [skyleite](github.com/skyleite)
-- [gays dot' studio](github.com/gays-studio)
+- [MattConn](https://github.com/MattConn)
+- [VinMannie](https://github.com/VinMannie)
+- [chromaticpipe](https://github.com/chromaticpipe)
+- [skyleite](https://github.com/skyleite)
+- [gays dot' studio](https://github.com/gays-studio)
