@@ -9,6 +9,7 @@
 - [BERGENTRUCK 201x](https://github.com/genizy/web-port/tree/main/bergentruck) - Ported by [bread](https://github.com/genizy)
 - [BLOODMONEY!](https://github.com/genizy/web-port/tree/main/bloodmoney) - Ported by [bread](https://github.com/genizy)
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) - Ported by [bread](https://github.com/genizy)
+- [Brotato](https://github.com/gays-studio/brotato-webport/) - ported by [aj](https://github.com/ajtabjs)
 - [Class of '09](https://github.com/genizy/web-port/tree/main/class-of-09) - Ported by [bread](https://github.com/genizy)
 - [Counter Strike & Half Life](https://github.com/x8BitRain/webXash/), [2](https://github.com/Pixelsuft/hl) - port by [x8BitRain](https://github.com/x8BitRain)
 - [Cuphead](https://github.com/web-ports/cuphead/) - Ported by [bread](https://github.com/genizy), Decomp by [SpanishFreddy](https://github.com/spanishfreddy) and [koi/_flixel](https://oldgrounds.xyz/)
