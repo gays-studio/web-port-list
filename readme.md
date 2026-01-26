@@ -23,6 +23,7 @@
 - [Do NOT Take This Cat Home](https://github.com/genizy/web-port/tree/main/donottakethiscathome) - Ported by [bread](https://github.com/genizy)
 - [Doom Engine](https://github.com/GMH-Code/Dwasm) - port by [GMH-Code](https://github.com/GMH-Code)
 - [Doom 3](https://github.com/gabrielcuvillier/d3wasm) - Ported by [gabrielcuvillier](https://github.com/gabrielcuvillier/d3wasm)
+- [Duck Life 8](https://github.com/web-ports/duck-8) - Ported by [bog/aukak](github.com/aukak)
 - [Fears to Fathom: Home Alone](https://github.com/slqntdevss/FTFHAPort) - Ported by [slqnt](https://github.com/slqntdevss)
 - [FNAF](https://github.com/genizy/web-port/tree/main/fnaf) - Ported by [irv77](https://github.com/irv77)
 - [Five Nights at Candy's 1](https://github.com/web-ports/fnac/tree/main/1) - Ported by [breadbb](https://gn-math.dev)
