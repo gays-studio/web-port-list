@@ -2,7 +2,7 @@
 
 - [Amanda The Adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) - Ported by [bread](https://github.com/genizy)
 - [Andy's Apple Farm](https://github.com/genizy/web-port/tree/main/andys-apple-farm) - Ported by [bread](https://github.com/genizy)
-- [A Difficult Game About Climbing](https://github.com/web-ports/adgac) - port by bread(github.com/genizy)?
+- [A Difficult Game About Climbing](https://github.com/web-ports/adgac) - port by [bread](github.com/genizy)?
 - [Balatro](https://github.com/W0W53R/web-balatro) - port by [W0W53R](https://github.com/W0W53R)
 - [Baldi's Basics Classic Remastered](https://github.com/genizy/web-port/tree/main/baldi-remaster) - Ported by [koi/_flixel](https://oldgrounds.xyz/)
 - [Baldi's Basics Plus](https://github.com/genizy/web-port/tree/main/baldi-plus) - Ported by [koi/_flixel](https://oldgrounds.xyz/)
