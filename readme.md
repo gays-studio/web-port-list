@@ -89,8 +89,10 @@
 
 # decomps
 [Muck](https://github.com/sodiboo/Muck) - decomp by [sodiboo](https://github.com/sodiboo)
+<!--[Granny 1.2](https://github.com/BasHeemskerk/Granny-Decompiled) - decomp by BasHeemskerk -->
 <!-- [Granny 1.8](https://github.com/Endlad7373/Granny-1.8_decompiled) - decomp by endlad7373 -->
 <!-- [Stardew Valley](https://github.com/veywrn/StardewValley) - decomp by veywrn -->
+<!-- [World of Tanks](https://github.com/StranikS-Scan/WorldOfTanks-Decompiled) - decomp by StranikS-Scan -->
 <!--
 all by slqnt
 - Bowerwhelm
