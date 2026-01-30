@@ -93,6 +93,8 @@
 <!-- [Granny 1.8](https://github.com/Endlad7373/Granny-1.8_decompiled) - decomp by endlad7373 -->
 <!-- [Stardew Valley](https://github.com/veywrn/StardewValley) - decomp by veywrn -->
 <!-- [World of Tanks](https://github.com/StranikS-Scan/WorldOfTanks-Decompiled) - decomp by StranikS-Scan -->
+<!-- [Terraria 1.4.0.5](https://github.com/AliceSavard/Terarria1405) - decomp by AliceSavard -->
+<!-- [Yandere Simulator C# Scripts](https://github.com/LordEnma/YandereSimulatorDecompiled) - decomp by LordEnma -->
 <!--
 all by slqnt
 - Bowerwhelm
