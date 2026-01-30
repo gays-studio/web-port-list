@@ -98,6 +98,8 @@
 <!-- [Yandere Simulator C# Scripts](https://github.com/LordEnma/YandereSimulatorDecompiled) - decomp by LordEnma -->
 <!-- [MiSide Demo](https://github.com/yenichw/MiSide-Demo-Unity-Project) - decomp by yenichw -->
 <!-- [Cut The Rope Windows](https://github.com/CtRHome/CutTheRope-WindowsDecomp) - decomp by CtRHome -->
+<!-- [Terraria XB360](https://github.com/PPrism/TerrariaOGC), [2](https://github.com/dptug/TerrariaXDK) - decomp by PPRism, dptug -->
+
 <!--
 all by slqnt
 - Bowerwhelm
