@@ -97,6 +97,7 @@
 <!-- [Terraria 1.4.0.5](https://github.com/AliceSavard/Terarria1405) - decomp by AliceSavard -->
 <!-- [Yandere Simulator C# Scripts](https://github.com/LordEnma/YandereSimulatorDecompiled) - decomp by LordEnma -->
 <!-- [MiSide Demo](https://github.com/yenichw/MiSide-Demo-Unity-Project) - decomp by yenichw -->
+<!-- [Cut The Rope Windows](https://github.com/CtRHome/CutTheRope-WindowsDecomp) - decomp by CtRHome -->
 <!--
 all by slqnt
 - Bowerwhelm
