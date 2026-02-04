@@ -134,3 +134,4 @@ all by slqnt
 - [skyleite](https://github.com/skyleite)
 - [BlueGameMC](https://github.com/BlueGameMC)
 - [gays dot' studio](https://github.com/gays-studio)
+- [Vanilagy](https://github.com/Vanilagy)
