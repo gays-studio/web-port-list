@@ -30,6 +30,7 @@
 - [FNAF](https://github.com/genizy/web-port/tree/main/fnaf) - Ported by [irv77](https://github.com/irv77)
 - [Five Nights at Candy's 1](https://github.com/web-ports/fnac/tree/main/1) - Ported by [breadbb](https://gn-math.dev)
 - [Five Nights at Candy's 2](https://github.com/web-ports/fnac/tree/main/2) - Ported by [breadbb](https://github.com/genizy)
+- [Five Nighs at Epstein's](https://github.com/web-ports/fnae) - port by bread[(https://github.com/genizy)]
 - [Five Nights at Freddy's 1](https://github.com/irv77/hd_fnaf/tree/main/1) - Ported by [irv77](https://github.com/irv77)
 - [Five Nights at Freddy's 2](https://github.com/irv77/hd_fnaf/tree/main/2) - Ported by [irv77](https://github.com/irv77)
 - [Five Nights at Freddy's 3](https://github.com/irv77/hd_fnaf/tree/main/3) - Ported by [irv77](https://github.com/irv77)
@@ -55,6 +56,7 @@
 - [Milk inside a bag of milk inside a bag of milk](https://github.com/web-ports/milk-bag-games/tree/main/inside) - ported by [sky](https://github.com/skysthelimitt)
 - [Milk outside a bag of milk outside a bag of milk](https://github.com/web-ports/milk-bag-games/tree/main/outside) - ported by [sky](https://github.com/skysthelimitt)
 - [Milkman Karlson](https://github.com/aukak/gameports/tree/main/milkman%20karlson) - Ported by [bog/aukak](https://github.com/aukak)
+- [Needy Streamer Overload](https://github.com/web-ports/needy-streamer-overload) - port by [edurocks](https://edurocks.org)
 - [Nothing](https://github.com/gays-studio/nothing-wasm-web) - ported by [aj](https://github.com/ajtabjs)
 - [OMORI](https://github.com/genizy/web-port/tree/main/omori-web-port) - Ported by [bread](https://github.com/genizy)
 - Oneshot (Legacy) - ported by arandomperson
