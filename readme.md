@@ -42,7 +42,7 @@
 - [Five Nights at Freddy's World: Refreshed](https://github.com/web-ports/fnaf-world-refreshed) - port by [Willowy](squall.cc)
 - [Getting over It](https://github.com/genizy/web-port/tree/main/getting-over-it) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Garry's Mod](./method/gm/image.png), [2](./method/gm/Screenshot_2025-08-21_174928.png) - port by [98Corbins](https://98cornbin.netlify.app), unreleased
-- [Gorilla Tag](https://github.com/web-ports/gorilla-tag) - port by [boolonx dot com](https://boolonx.com/)
+- [Gorilla Tag](https://github.com/web-ports/gorilla-tag), [2](https://github.com/aukak/gorrila-tag) - port by [boolonx dot com](https://boolonx.com/)
 - [Happy Sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) - Ported by [bread](https://github.com/genizy)
 - [Hotline Miami](https://github.com/genizy/web-port/tree/main/hotline-miami) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Hollow Knight](https://github.com/aukak/hollow-knight) - port by [bog/aukak](https://github.com/aukak)
