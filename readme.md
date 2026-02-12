@@ -30,7 +30,7 @@
 - [FNAF](https://github.com/genizy/web-port/tree/main/fnaf) - Ported by [irv77](https://github.com/irv77)
 - [Five Nights at Candy's 1](https://github.com/web-ports/fnac/tree/main/1) - Ported by [breadbb](https://gn-math.dev)
 - [Five Nights at Candy's 2](https://github.com/web-ports/fnac/tree/main/2) - Ported by [breadbb](https://github.com/genizy)
-- [Five Nighs at Epstein's](https://github.com/web-ports/fnae) - port by bread[(https://github.com/genizy)]
+- [Five Nighs at Epstein's](https://github.com/web-ports/fnae) - port by @q8j.__ on discord, fixed by [bread](https://github.com/genizy)
 - [Five Nights at Freddy's 1](https://github.com/irv77/hd_fnaf/tree/main/1) - Ported by [irv77](https://github.com/irv77)
 - [Five Nights at Freddy's 2](https://github.com/irv77/hd_fnaf/tree/main/2) - Ported by [irv77](https://github.com/irv77)
 - [Five Nights at Freddy's 3](https://github.com/irv77/hd_fnaf/tree/main/3) - Ported by [irv77](https://github.com/irv77)
