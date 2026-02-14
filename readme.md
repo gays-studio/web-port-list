@@ -41,13 +41,11 @@
 - [Five Nights at Freddy's Ultimate Custom Night](https://github.com/irv77/hd_fnaf/tree/main/ucn) - Ported by [irv77](https://github.com/irv77)
 - [Five Nights at Freddy's World](https://github.com/irv77/hd_fnaf/tree/main/w) - Ported by [irv77](https://github.com/irv77)
 - [Five Nights at Freddy's World: Refreshed](https://github.com/web-ports/fnaf-world-refreshed) - port by [Willowy](squall.cc)
-- [Getting over It](https://github.com/genizy/web-port/tree/main/getting-over-it) - Ported by [slqnt](https://github.com/slqntdevss)
-- [Garry's Mod](./method/gm/image.png), [2](./method/gm/Screenshot_2025-08-21_174928.png) - port by [98Corbins](https://98cornbin.netlify.app), unreleased
+- [Getting Over It](https://github.com/genizy/web-port/tree/main/getting-over-it) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Gorilla Tag](https://github.com/web-ports/gorilla-tag), [2](https://github.com/aukak/gorrila-tag) - port by [boolonx dot com](https://boolonx.com/)
 - [Happy Sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) - Ported by [bread](https://github.com/genizy)
 - [Hotline Miami](https://github.com/genizy/web-port/tree/main/hotline-miami) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Hollow Knight](https://github.com/aukak/hollow-knight) - port by [bog/aukak](https://github.com/aukak)
-- [Hollow Knight: Silksong](./method/slksng/image.png), [2](./method/slksng/image_.png), [3](./method/slksng/image__.png), [4](./method/slksng/image___.png) - decomp and port by [bog/aukak](https://github.com/aukak) and [bread](https://github.com/genizy), unreleased (silksong has 4 million assets :sob:)
 - [Iron Lung](https://github.com/web-ports/iron-lung) - port by [98Corbins](https://98cornbin.netlify.app)
 - [Jelly Drift](https://github.com/genizy/web-port/tree/main/jelly-drift) - port by [bread](https://github.com/genizy)
 - [Karlson](https://github.com/genizy/web-port/tree/main/karlson) - port by [NPA](https://github.com/National-Porting-Association)
@@ -62,10 +60,8 @@
 - [OMORI](https://github.com/genizy/web-port/tree/main/omori-web-port) - Ported by [bread](https://github.com/genizy)
 - Oneshot (Legacy) - ported by arandomperson
 - [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
-- [PEAK](./method/peak/image.png), [2](./method/peak/image_.png) - port by [bog/aukak](https://github.com/aukak), unreleased
 - [People Playground](https://github.com/genizy/web-port/tree/main/people-playground) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Pizza Tower](https://github.com/genizy/web-port/tree/main/pizza-tower) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
-- [Portal](./method/port/Screenshot_2025-08-21_115116.png), [2](./method/port/Screenshot_2025-08-21_210140.png) - ported by [98Corbins](https://98cornbin.netlify.app), unreleased
 - [Quake](https://github.com/GMH-Code/Qwasm) - port by [GMH-Code](https://github.com/GMH-Code)
 - [Quake 2](https://github.com/GMH-Code/Qwasm2) - port by [GMH-Code](https://github.com/GMH-Code)
 - [RAFT](https://github.com/genizy/web-port/tree/main/raft) - Ported by Ashen Arrow
