@@ -14,6 +14,7 @@
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) - Ported by [bread](https://github.com/genizy)
 - [Brotato](https://github.com/BlueGameMC/BrotatoWeb), [2](https://github.com/gays-studio/brotato-webport/) - ported by [BlueGameMC](https://github.com/BlueGameMC)
 - [Class of '09](https://github.com/genizy/web-port/tree/main/class-of-09) - Ported by [bread](https://github.com/genizy)
+- [Clover Pit](https://github.com/web-ports/clover-pit) - port by [bread](https://github.com/genizy)
 - [Counter Strike & Half Life](https://github.com/x8BitRain/webXash/), [2](https://github.com/Pixelsuft/hl) - port by [x8BitRain](https://github.com/x8BitRain)
 - [Cuphead](https://github.com/web-ports/cuphead/) - Ported by [bread](https://github.com/genizy), Decomp by [SpanishFreddy](https://github.com/spanishfreddy) and [koi/_flixel](https://oldgrounds.xyz/)
 - [Celeste](https://github.com/MercuryWorkshop/celeste-wasm), [2](https://github.com/web-ports/celeste) - port by [Mercury Workshop](https://github.com/MercuryWorkshop), modified by [bread](https://github.com/genizy)
@@ -63,6 +64,7 @@
 - [OMORI](https://github.com/genizy/web-port/tree/main/omori-web-port) - Ported by [bread](https://github.com/genizy)
 - Oneshot (Legacy) - ported by arandomperson
 - [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
+- [Peaks of Yore](https://github.com/web-ports/peaks-of-yore) - port by [bread](https://github.com/genizy)
 - [People Playground](https://github.com/genizy/web-port/tree/main/people-playground) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Phasmophobia](https://github.com/shayderrr/portsv2/tree/main/phasmaphobia) - port by [shayderrr](https://github.com/shayderrr)
 - [Pizza Tower](https://github.com/genizy/web-port/tree/main/pizza-tower) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
