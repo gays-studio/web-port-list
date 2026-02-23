@@ -13,6 +13,7 @@
 - [BLOODMONEY!](https://github.com/genizy/web-port/tree/main/bloodmoney) - Ported by [bread](https://github.com/genizy)
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) - Ported by [bread](https://github.com/genizy)
 - [Brotato](https://github.com/BlueGameMC/BrotatoWeb), [2](https://github.com/gays-studio/brotato-webport/) - ported by [BlueGameMC](https://github.com/BlueGameMC)
+- [Christmas Massacre](https://github.com/web-ports/christmas-massacre) - port by [98corbins](https://98cornbin.netlify.app)
 - [Class of '09](https://github.com/genizy/web-port/tree/main/class-of-09) - Ported by [bread](https://github.com/genizy)
 - [Clover Pit](https://github.com/web-ports/clover-pit) - port by [bread](https://github.com/genizy)
 - [Counter Strike & Half Life](https://github.com/x8BitRain/webXash/), [2](https://github.com/Pixelsuft/hl) - port by [x8BitRain](https://github.com/x8BitRain)
