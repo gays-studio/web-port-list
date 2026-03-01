@@ -67,8 +67,8 @@
 - [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
 - [Peaks of Yore](https://github.com/web-ports/peaks-of-yore) - port by [bread](https://github.com/genizy)
 - [People Playground](https://github.com/genizy/web-port/tree/main/people-playground) - Ported by [98Corbins](https://98cornbin.netlify.app)
-- [Phasmophobia](https://github.com/shayderrr/portsv2/tree/main/phasmaphobia) - port by [shayderrr](https://github.com/shayderrr)
 - [Pizza Tower](https://github.com/genizy/web-port/tree/main/pizza-tower) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
+- [Power Hover](https://github.com/web-ports/power-hover)
 - [Quake](https://github.com/GMH-Code/Qwasm) - port by [GMH-Code](https://github.com/GMH-Code)
 - [Quake 2](https://github.com/GMH-Code/Qwasm2) - port by [GMH-Code](https://github.com/GMH-Code)
 - [RAFT](https://github.com/genizy/web-port/tree/main/raft) - Ported by Ashen Arrow
