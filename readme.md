@@ -10,7 +10,7 @@
 - [Baldi's Basics Plus](https://github.com/genizy/web-port/tree/main/baldi-plus) - Ported by [koi/_flixel](https://oldgrounds.xyz/)
 - [Bat to Bed Demo](https://github.com/gays-studio/BatToBed-DEMO-webport) - port by [aj](https://github.com/ajtabjs)
 - [Bat to the Heavens](https://github.com/gays-studio/bat-to-the-heavens)- port by [aj](https://github.com/ajtabjs)
-- [Bendy and The Ink Machine][https://github.com/woahhcrackers/BATIMWeb], [2](https://github.com/genizy/web-port/tree/main/bendy), [3](https://github.com/web-ports/bendy-and-the-ink-machine) - Ports by [98Corbins](https://98cornbin.netlify.app), crackers and slant
+- [Bendy and The Ink Machine][https://github.com/woahhcrackers/BATIMWeb], [2](https://github.com/genizy/web-port/tree/main/bendy), [3](https://github.com/web-ports/bendy-and-the-ink-machine) - Ports by [98Corbins](https://98cornbin.netlify.app), [crackers](https://github.com/woahhcrackers) and [slant](https://github.com/slqntdevss)
 - [BERGENTRUCK 201x](https://github.com/genizy/web-port/tree/main/bergentruck) - Ported by [bread](https://github.com/genizy)
 - [BLOODMONEY!](https://github.com/genizy/web-port/tree/main/bloodmoney) - Ported by [bread](https://github.com/genizy)
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) - Ported by [bread](https://github.com/genizy)
