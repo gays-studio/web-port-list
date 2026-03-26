@@ -128,7 +128,7 @@
 - [Webfishing](https://github.com/genizy/web-port/tree/main/web-fishing) - Ported by [bread](https://github.com/genizy)
 - [Witch's Heart](https://github.com/genizy/web-port/tree/main/witch-heart) - port by [bread](https://github.com/genizy)
 - [Xash3D](https://github.com/btarg/Xash3D-Emscripten) - port by mittorn
-- [Your Only Move is Hustle](https://github.com/webporting/Your-Only-Move-Is-HUSTLE) - port by [bog/aukak](https://github.com/aukak)
+- [Your Only Move is Hustle](https://github.com/webporting/Your-Only-Move-Is-HUSTLE), [2](https://github.com/web-ports/yomi-hustle) - port by [bog/aukak](https://github.com/aukak)
 - [Yume Nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) - Ported by [bread](https://github.com/genizy)
 
 <!-- # decomps
