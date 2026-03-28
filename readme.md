@@ -68,6 +68,7 @@
 - [Jelly Drift](https://github.com/genizy/web-port/tree/main/jelly-drift) - port by [bread](https://github.com/genizy)
 - [JENNY](https://github.com/MRVAPORWAVE25/JennyGameFiles) - ported by [NotDaniel](https://github.com/MRVAPORWAVE25)
 - [Karlson](https://github.com/genizy/web-port/tree/main/karlson) - port by [NPA](https://github.com/National-Porting-Association)
+- [Kill the Ice Age Baby Adventure 2](https://github.com/SomeRandomFella/kill-ice-age-baby-adventure-2-) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
 - [Kindergarten 1 & 2](https://github.com/genizy/web-port/tree/main/kindergarten) - Ported by [bread](https://github.com/genizy)
 - [Klifur](https://github.com/aukak/klifur) - port by [bog/aukak](https://github.com/aukak)
 - [Lacey's Flash Games](https://github.com/genizy/web-port/tree/main/laceys-flash-games) - Ported by [bread](https://github.com/genizy)
