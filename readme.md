@@ -89,6 +89,7 @@
 - [Peaks of Yore](https://github.com/web-ports/peaks-of-yore) - port by [bread](https://github.com/genizy)
 - [People Playground](https://github.com/bubbls/ugss/tree/main/people-playground), [original port](https://github.com/genizy/web-port/tree/main/people-playground) - Ported by [98Corbins](https://98cornbin.netlify.app), updated to latest ver by [bog/aukak](https://github.com/aukak)
 - [Pizza Tower](https://github.com/genizy/web-port/tree/main/pizza-tower) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
+- [Plants vs Zombies: GOTY Edition](https://github.com/wszqkzqk/PvZ-Portable) - ported by [Zhou Qiankang](https://github.com/wszqkzqk)
 - [Plants vs Zombies: Fusion](https://github.com/gays-studio/pvzfusion) - port by [aj](https://github.com/ajtabjs)
 - [Power Hover](https://github.com/web-ports/power-hover)
 - [Quake](https://github.com/GMH-Code/Qwasm) - port by [GMH-Code](https://github.com/GMH-Code)
