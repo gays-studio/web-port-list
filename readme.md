@@ -64,6 +64,7 @@
 - [GTA Vice City](https://github.com/Lolendor/reVCDOS) - port by the [DOS.Zone team](dos.zone/reVCDOS)
 - [Happy Sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) - Ported by [bread](https://github.com/genizy)
 - [HAYAI](https://github.com/degloved-net/HAYAI) - port by [cirsius](https://github.com/cirsius)
+- [Helltaker](https://github.com/wasm-rip/HellTaker-Web/tree/main) - port by [shayder](https://github.com/shayderrr)
 - [Hotline Miami](https://github.com/genizy/web-port/tree/main/hotline-miami) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Hollow Knight](https://github.com/aukak/hollow-knight) - port by [bog/aukak](https://github.com/aukak)
 - [Hollow Knight: Silksong](https://github.com/web-ports/hollow-knight-silksong), [2](https://github.com/webporting/Hollow-Knight-Silksong)
@@ -187,3 +188,4 @@ all by slqnt
 - [gays dot' studio](https://github.com/gays-studio)
 - [Vanilagy](https://github.com/Vanilagy)
 - [TWS2401](https://github.com/TWS2401)
+- [wasm.rip](https://wasm.rip)
