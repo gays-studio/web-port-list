@@ -5,7 +5,7 @@
 - [Antonblast](https://github.com/web-ports/antonblast) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [A Difficult Game About Climbing](https://github.com/web-ports/adgac) - port by [bread](https://github.com/genizy)
 - [Approaches](https://github.com/wasm-com/Approaches-web) - port by [shayder](https://github.com/shayderrr)
-- [Arco](https://github.com/degloved-net/arco) - port by cirsius
+- [Arco](https://github.com/degloved-net/arco) - port by [cirsius](https://github.com/cirsius)
 - [Balatro](https://github.com/W0W53R/web-balatro) - port by [W0W53R](https://github.com/W0W53R)
 - [Baldi's Basics Birthday Bash](https://github.com/woahhcrackers/BirthdayBashWeb) - port by [crackers](https://github.com/woahhcrackers)
 - [Baldi's Basics Classic Remastered](https://github.com/genizy/web-port/tree/main/baldi-remaster) - Ported by [koi/_flixel](https://oldgrounds.xyz/)
