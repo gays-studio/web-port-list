@@ -98,6 +98,7 @@
 - [Pizza Tower](https://github.com/genizy/web-port/tree/main/pizza-tower) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [Plants vs Zombies: GOTY Edition](https://github.com/wszqkzqk/PvZ-Portable) - ported by [Zhou Qiankang](https://github.com/wszqkzqk)
 - [Plants vs Zombies: Fusion](https://github.com/gays-studio/pvzfusion) - port by [aj](https://github.com/ajtabjs)
+- [Promises to Keep](https://gitea.mcalec.dev/mcalec/ptk) - port by [mcalec](https://mcalec.dev/)
 - [Power Hover](https://github.com/web-ports/power-hover)
 - [Quake](https://github.com/GMH-Code/Qwasm) - port by [GMH-Code](https://github.com/GMH-Code)
 - [Quake 2](https://github.com/GMH-Code/Qwasm2) - port by [GMH-Code](https://github.com/GMH-Code)
