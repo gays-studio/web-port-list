@@ -90,7 +90,7 @@
 - [Needy Streamer Overload](https://github.com/web-ports/needy-streamer-overload) - port by [edurocks](https://edurocks.org)
 - [Nodebuster](https://github.com/degloved-net/nodebuster) - port by [cirsius](https://github.com/cirsius)
 - [Nothing](https://github.com/gays-studio/nothing-wasm-web),[2](https://github.com/googoogoob/NothingWebPort) - ported by [aj](https://github.com/ajtabjs)
-- [OMORI](https://github.com/genizy/web-port/tree/main/omori-web-port) - Ported by [bread](https://github.com/genizy)
+- [OMORI](https://github.com/genizy/web-port/tree/main/omori-fixed) - Ported by [bread](https://github.com/genizy)
 - Oneshot (Legacy) - ported by arandomperson
 - [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
 - [Peaks of Yore](https://github.com/web-ports/peaks-of-yore) - port by [bread](https://github.com/genizy)
