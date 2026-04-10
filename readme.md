@@ -140,6 +140,7 @@
 - [Upstream](https://github.com/degloved-net/upstream) - port by [gurtmuncher](https://github.com/gurtmuncher)
 - [Void Whispers](https://github.com/degloved-net/void-whispers) - port by [cirsius](https://github.com/cirsius)
 - [Webfishing](https://github.com/genizy/web-port/tree/main/web-fishing) - Ported by [bread](https://github.com/genizy)
+- [Who's Your Daddy?](https://github.com/Reeyuki/daddygame) - port by reeyuki
 - [Witch's Heart](https://github.com/genizy/web-port/tree/main/witch-heart) - port by [bread](https://github.com/genizy)
 - [Xash3D](https://github.com/btarg/Xash3D-Emscripten) - port by mittorn
 - [Your Only Move is Hustle](https://github.com/webporting/Your-Only-Move-Is-HUSTLE), [2](https://github.com/web-ports/yomi-hustle) - port by [bog/aukak](https://github.com/aukak)
