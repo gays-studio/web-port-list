@@ -119,6 +119,7 @@
 - [Sonic Robo Blast 2](https://github.com/chromaticpipe/SRB2-WASM) - ported by [chromaticpipe](https://github.com/chromaticpipe)
 - [Speed Stars](https://github.com/genizy/web-port/tree/main/speed-stars) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [S.P.L.I.T](https://github.com/degloved-net/s.p.l.i.t) - port by [gurtmuncher](https://github.com/gurtmuncher)
+- [Stardew Valley](https://github.com/degloved-net/stardew-wasm) - port by [cirsius](https://github.com/Cirsius)
 - [SRB2 Kart](https://github.com/skyleite/Kart-Public-WASM/) - ported by [skyleite](https://github.com/skyleite)
 - [Super Mario 64 FPS](https://github.com/gays-studio/sm64fps-port) - ported by [aj](https://github.com/ajtabjs)
 - [Sunky's Schoolhouse](https://github.com/gays-studio/sunkys-schoolhouse-webport) - ported by [aj](https://github.com/ajtabjs)
