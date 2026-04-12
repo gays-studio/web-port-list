@@ -40,6 +40,8 @@
 - [Do NOT Take This Cat Home](https://github.com/genizy/web-port/tree/main/donottakethiscathome) - Ported by [bread](https://github.com/genizy)
 - [Doom Engine](https://github.com/GMH-Code/Dwasm) - port by [GMH-Code](https://github.com/GMH-Code)
 - [Doom 3](https://github.com/web-ports/doom-3), [original](https://github.com/gabrielcuvillier/d3wasm) - Ported by [98corbins](https://98cornbin.netlify.app), [gabrielcuvillier](https://github.com/gabrielcuvillier)
+- [Dude Simulator](https://dude-simulator-webgl.netlify.app/) - port by carter
+- [Dude Simulator 2](https://dude-sim-2-webgl-ported-by-carteryes.netlify.app/ ) - port by carter
 - [Duck Life Adventure](https://github.com/aukak/duck-life-adventure), [2](https://github.com/web-ports/duck-8) - Ported by [bog/aukak](github.com/aukak)
 - [Dumb Ways to Die (v1.6)](https://github.com/web-ports/dumb-ways-to-die) - port by [bread](https://github.com/genizy)
 - [Fear and Hunger](https://github.com/web-ports/fear-and-hunger) - port by [bread](https://github.com/genizy)
@@ -144,6 +146,8 @@
 - [Who's Your Daddy?](https://github.com/Reeyuki/daddygame), [2](https://github.com/web-ports/daddygame) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Witch's Heart](https://github.com/genizy/web-port/tree/main/witch-heart) - port by [bread](https://github.com/genizy)
 - [Xash3D](https://github.com/btarg/Xash3D-Emscripten) - port by mittorn
+- [Youtubers Life OMG!](https://reeyuki-ytlife.netlify.app/) - port by [reeyuki](https://reeyuki.nekoweb.org/)
+- [You Want Half a Mounds Bar](https://github.com/wasm-rip/You-Want-Half-A-Mounds-Bar-Web) - port by dude
 - [Your Only Move is Hustle](https://github.com/webporting/Your-Only-Move-Is-HUSTLE), [2](https://github.com/web-ports/yomi-hustle) - port by [bog/aukak](https://github.com/aukak)
 - [Yume Nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) - Ported by [bread](https://github.com/genizy)
 
