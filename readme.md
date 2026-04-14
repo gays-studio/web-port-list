@@ -36,6 +36,7 @@
 - [Dawnfolk](https://github.com/degloved-net/dawnfolk) - port by [cirsius](https://github.com/cirsius)
 - [Deltarune Chapters 1-4](https://aukak.itch.io/deltarune) - Ported by [bread](https://github.com/genizy), Archived by [bog/aukak](https://github.com/aukak)
 - [Dice a Million](https://github.com/NotRexed/Unblocked-Games/tree/main/diceamillion) - port by [NotRexed](https://github.com/NotRexed)
+- [Dictators:No Peace Countryballs](https://github.com/web-ports/countryballsdictator) - port by [bread](https://github.com/genizy)
 - [Doki Doki Literature Club](https://github.com/EmeraldGreenR/EmeraldGreenR.github.io) - Ported by [EmeraldGreenR](https://github.com/EmeraldGreenR/)? 
 - [Doki Doki Literature Club Plus!](https://selenite.cc/resources/semag/ddlcplus/index.html) - port by [sky](https://github.com/skysthelimitt)
 - [Do NOT Take This Cat Home](https://github.com/genizy/web-port/tree/main/donottakethiscathome) - Ported by [bread](https://github.com/genizy)
