@@ -46,6 +46,7 @@
 - [Duck Life Adventure](https://github.com/aukak/duck-life-adventure), [2](https://github.com/web-ports/duck-8) - Ported by [bog/aukak](github.com/aukak)
 - [Dumb Ways to Die (v1.6)](https://github.com/web-ports/dumb-ways-to-die) - port by [bread](https://github.com/genizy)
 - [Fear and Hunger](https://github.com/web-ports/fear-and-hunger) - port by [bread](https://github.com/genizy)
+- [Fear and Hunger 2](https://github.com/web-ports/fear-and-hunger-2) - port by [bread](https://github.com/genizy)
 - [Fears to Fathom: Home Alone](https://github.com/slqntdevss/FTFHAPort) - Ported by [slqnt](https://github.com/slqntdevss)
 - [fish](https://github.com/web-ports/fish) - port by [bread](https://github.com/genizy)
 - [FNAF](https://github.com/genizy/web-port/tree/main/fnaf) - Ported by [irv77](https://github.com/irv77)
