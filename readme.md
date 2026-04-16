@@ -86,6 +86,7 @@
 - [Kindergarten 3](https://github.com/slqntdevss/Kindergarten3Port) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Klifur](https://github.com/aukak/klifur) - port by [bog/aukak](https://github.com/aukak)
 - [Lacey's Flash Games](https://github.com/genizy/web-port/tree/main/laceys-flash-games) - Ported by [bread](https://github.com/genizy)
+- [Lethal Ape](https://github.com/web-ports/lethal-ape) - port by [98Corbins](https://98cornbin.netlify.app)
 - [Marble Blast Gold & Marble Blast Platinum](https://github.com/Vanilagy/MarbleBlast) - port by [Vanilagy](https://github.com/Vanilagy)
 - [Milk inside a bag of milk inside a bag of milk](https://github.com/web-ports/milk-bag-games/tree/main/inside) - ported by [sky](https://github.com/skysthelimitt)
 - [Milk outside a bag of milk outside a bag of milk](https://github.com/web-ports/milk-bag-games/tree/main/outside) - ported by [sky](https://github.com/skysthelimitt)
