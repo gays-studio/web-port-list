@@ -15,6 +15,7 @@
 - [Baldi's Basics: Minus 3](https://github.com/aukak/-3) - port by [bog/aukak](https://github.com/aukak)
 - [Bat to Bed Demo](https://github.com/gays-studio/BatToBed-DEMO-webport) - port by [aj](https://github.com/ajtabjs)
 - [Bat to the Heavens](https://github.com/gays-studio/bat-to-the-heavens)- port by [aj](https://github.com/ajtabjs)
+- [Beat Banger](https://github.com/ajtabjs/bbport) - port by [aj](https://github.com/ajtabjs)
 - Beatblock - port by bog
 - [Bendy and The Ink Machine](https://github.com/woahhcrackers/BATIMWeb), [2](https://github.com/slqntdevss/BATIMFullPort), [3](https://github.com/genizy/web-port/tree/main/bendy), [4](https://github.com/web-ports/bendy-and-the-ink-machine) - Ports by [98Corbins](https://98cornbin.netlify.app), [crackers](https://github.com/woahhcrackers) and [slant](https://github.com/slqntdevss)
 - [BERGENTRUCK 201x](https://github.com/genizy/web-port/tree/main/bergentruck) - Ported by [bread](https://github.com/genizy)
@@ -118,6 +119,7 @@
 - [Running Fred](https://github.com/aukak/running-fred) - port by [bog/aukak](https://github.com/aukak)
 - [Saihate Station](https://github.com/web-ports/saihate-station)
 - [Scoutdingo](https://github.com/web-ports/scoutdingo) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
+- [Sex with Hitler](https://github.com/ajtabjs/swhport) - port by [aj](https://github.com/ajtabjs)
 - [Shift at Midnight](https://github.com/webporting/Shift-At-Midnight) - ported by the [slqnt](https://github.com/slqntdevss)
 - [Slender: The Eight Pages](https://github.com/genizy/web-port/tree/main/slender) - Ported by [bread](https://github.com/genizy)
 - [Slendytubbies](https://github.com/web-ports/slendytubbies) - 0 by [bread](https://github.com/genizy) 1-3 by corbin
