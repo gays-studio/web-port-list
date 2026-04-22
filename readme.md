@@ -99,6 +99,7 @@
 - [My Dictator Stalin Can't Be This Cute ?!](https://github.com/degloved-net/my-dictator-stalin-cant-be-this-cute) - port by [cirsius](https://github.com/cirsius)
 - [My Femboy Roommate](http://github.com/gays-studio/mfr-webport), [2](https://github.com/Cute-Orange-Cat/MFR/tree/main) - ported by [aj](https://github.com/ajtabjs) 
 - [Needy Streamer Overload](https://github.com/web-ports/needy-streamer-overload) - port by [edurocks](https://edurocks.org)
+- [Night in the Woods](https://github.com/reeyuki/NightInTheWoods/) - port by [reeyuki](https://reeyuki.nekoweb.org)
 - [Nodebuster](https://github.com/degloved-net/nodebuster) - port by [cirsius](https://github.com/cirsius)
 - [Nothing](https://github.com/gays-studio/nothing-wasm-web),[2](https://github.com/googoogoob/NothingWebPort) - ported by [aj](https://github.com/ajtabjs)
 - [OMORI](https://github.com/genizy/web-port/tree/main/omori-fixed) - Ported by [bread](https://github.com/genizy)
