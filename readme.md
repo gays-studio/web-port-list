@@ -66,6 +66,7 @@
 - [Five Nights at Freddy's Ultimate Custom Night](https://github.com/irv77/hd_fnaf/tree/main/ucn) - Ported by [irv77](https://github.com/irv77)
 - [Five Nights at Freddy's World](https://github.com/irv77/hd_fnaf/tree/main/w) - Ported by [irv77](https://github.com/irv77)
 - [Five Nights at Freddy's World: Refreshed](https://github.com/web-ports/fnaf-world-refreshed) - port by [Willowy](https://squall.cc)
+- [Five Night's at Frickbear's 3](https://github.com/Reeyuki/frickbears3port/) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Flying Gorilla](https://github.com/web-ports/flying-gorilla) - port by [98corbins](https://98cornbin.netlify.app/)
 - [Gabriel's Awesome Schoolhouse](https://github.com/web-ports/gash) - port by [bread](https://github.com/genizy)
 - [Getting Over It](https://github.com/genizy/web-port/tree/main/getting-over-it) - Ported by [slqnt](https://github.com/slqntdevss)
