@@ -49,6 +49,7 @@
 - [Dude Simulator 2](https://dude-sim-2-webgl-ported-by-carteryes.netlify.app/ ) - port by carter
 - [Duck Life Adventure](https://github.com/aukak/duck-life-adventure), [2](https://github.com/web-ports/duck-8) - Ported by [bog/aukak](github.com/aukak)
 - [Dumb Ways to Die (v1.6)](https://github.com/web-ports/dumb-ways-to-die) - port by [bread](https://github.com/genizy)
+- [Dustale](https://github.com/shayderrr/dustaleport) - port by [shayder](https://github.com/shayderrr)
 - [Fear and Hunger](https://github.com/web-ports/fear-and-hunger) - port by [bread](https://github.com/genizy)
 - [Fear and Hunger 2](https://github.com/web-ports/fear-and-hunger-2) - port by [bread](https://github.com/genizy)
 - [Fears to Fathom: Home Alone](https://github.com/slqntdevss/FTFHAPort) - Ported by [slqnt](https://github.com/slqntdevss)
