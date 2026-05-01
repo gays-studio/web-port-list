@@ -79,6 +79,7 @@
 - [Hotline Miami](https://github.com/genizy/web-port/tree/main/hotline-miami) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [Hollow Knight](https://github.com/aukak/hollow-knight) - port by [bog/aukak](https://github.com/aukak)
 - [Hollow Knight: Silksong](https://github.com/web-ports/hollow-knight-silksong), [2](https://github.com/webporting/Hollow-Knight-Silksong)
+- [Horntale](https://github.com/shayderrr/horntaleport) port by [shayder](https://github.com/shayderrr)
 - [Inscryption](https://github.com/Reeyuki/InscryptionWebport) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [In Stars and Time](https://github.com/Reeyuki/InStarsAndTime) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Iron Lung](https://github.com/web-ports/iron-lung) - port by [98Corbins](https://98cornbin.netlify.app)
