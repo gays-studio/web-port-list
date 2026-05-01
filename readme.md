@@ -163,7 +163,7 @@
 - [Witch's Heart](https://github.com/genizy/web-port/tree/main/witch-heart) - port by [bread](https://github.com/genizy)
 - [Wizards in Shorts](https://github.com/Reeyuki/WizardsInShorts) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Xash3D](https://github.com/btarg/Xash3D-Emscripten) - port by mittorn
-- [Youtubers Life OMG!](https://reeyuki-ytlife.netlify.app/) - port by [reeyuki](https://reeyuki.nekoweb.org/)
+- [Youtubers Life OMG!](https://github.com/Reeyuki/ytlifeomg) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [You Want Half a Mounds Bar](https://github.com/wasm-rip/You-Want-Half-A-Mounds-Bar-Web) - port by dude
 - [Your Only Move is Hustle](https://github.com/webporting/Your-Only-Move-Is-HUSTLE), [2](https://github.com/web-ports/yomi-hustle) - port by [bog/aukak](https://github.com/aukak)
 - [Yume Nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) - Ported by [bread](https://github.com/genizy)
