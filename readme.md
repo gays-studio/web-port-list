@@ -2,6 +2,7 @@
 - [20 Minutes](https://github.com/web-ports/20-minutes) - port by bog and rah
 - [Amanda The Adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) - Ported by [bread](https://github.com/genizy)
 - [Andy's Apple Farm](https://github.com/genizy/web-port/tree/main/andys-apple-farm) - Ported by [bread](https://github.com/genizy)
+- [Animal Crossing](https://github.com/web-ports/ac-gamecube)
 - [Angry Birds Epic v3.0.1](https://github.com/DarkTerraYT/EpicWeb)
 - [Antonblast](https://github.com/web-ports/antonblast) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [A Difficult Game About Climbing](https://github.com/web-ports/adgac) - port by [bread](https://github.com/genizy)
@@ -87,6 +88,7 @@
 - [I Spoke to God](https://github.com/degloved-net/i-spoke-to-god) - port by [gurtmuncher](https://github.com/gurtmuncher)
 - [Jelly Drift](https://github.com/genizy/web-port/tree/main/jelly-drift) - port by [bread](https://github.com/genizy)
 - [JENNY](https://github.com/MRVAPORWAVE25/JennyGameFiles) - ported by [NotDaniel](https://github.com/MRVAPORWAVE25)
+- [Just Shapes & Beats](https://github.com/web-ports/jsab) - port by [bread](https://github.com/genizy)
 - [Karlson](https://github.com/genizy/web-port/tree/main/karlson) - port by [NPA](https://github.com/National-Porting-Association)
 - [Kill the Ice Age Baby Adventure 2](https://github.com/SomeRandomFella/kill-ice-age-baby-adventure-2-) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
 - [Kindergarten 1 & 2](https://github.com/genizy/web-port/tree/main/kindergarten) - Ported by [bread](https://github.com/genizy)
@@ -145,10 +147,12 @@
 - [Sunky's Schoolhouse](https://github.com/gays-studio/sunkys-schoolhouse-webport) - ported by [aj](https://github.com/ajtabjs)
 - [Super Monkey Ball](https://monkeyball-online.pages.dev/) - ported by [Twilight](https://ko-fi.com/twilightpb)
 - [Taiko no Tatsujin](https://cjdgrevival.com/)
+- [Talking Hippo](https://github.com/web-ports/talking-hippo)
 - [Terraria](http://github.com/mercuryWorkshop/terraria-wasm), [2](https://github.com/web-ports/terraria) - ported by mercuryworkshop, modified by [bread](https://github.com/genizy)
 - [That's Not My Neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) - Ported by [bread](https://github.com/genizy)
 - [The Man From the Window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) - Ported by [bread](https://github.com/genizy)
 - [The Man From the Window 2](https://github.com/wasm-rip/the-man-from-the-window-2-web) - port by dude
+- [Totally Accurate Battle Simulator](https://github.com/web-ports/tabs) - port by bread
 - [Touhou Mother](https://github.com/aukak/gameports/tree/main/touhou%20mother) - Ported by [bog/aukak](https://github.com/aukak)
 - [Traffic Racer](https://github.com/genizy/traffic-racer) - port by [bread](https://github.com/genizy)
 - [TriZon](https://github.com/degloved-net/trizon) - port by [cirsius](https://github.com/cirsius)
