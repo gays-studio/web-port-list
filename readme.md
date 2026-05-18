@@ -3,6 +3,7 @@
 - [Amanda The Adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) - Ported by [bread](https://github.com/genizy)
 - [Andy's Apple Farm](https://github.com/genizy/web-port/tree/main/andys-apple-farm) - Ported by [bread](https://github.com/genizy)
 - [Animal Crossing](https://github.com/web-ports/ac-gamecube)
+- [Angry Birds 2](https://github.com/Reeyuki/angry2) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Angry Birds Epic v3.0.1](https://github.com/DarkTerraYT/EpicWeb)
 - [Antonblast](https://github.com/web-ports/antonblast) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [A Difficult Game About Climbing](https://github.com/web-ports/adgac) - port by [bread](https://github.com/genizy)
