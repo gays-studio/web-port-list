@@ -134,7 +134,7 @@
 - [Slender: The Eight Pages](https://github.com/genizy/web-port/tree/main/slender) - Ported by [bread](https://github.com/genizy)
 - [Slendytubbies](https://github.com/web-ports/slendytubbies) - 0 by [bread](https://github.com/genizy) 1-3 by corbin
 - [Slime Ranchers](https://github.com/web-ports/slime-ranchers) - port by [snubby](https://snubby.top)
-- [Something](https://github.com/gays-studio/nothing-wasm-web), [2](https://github.com/googoogoob/SomethingWebPort) - ported by [aj](https://github.com/ajtabjs)
+- [Something](https://github.com/gays-studio/something-web), [2](https://github.com/googoogoob/SomethingWebPort) - ported by [aj](https://github.com/ajtabjs)
 - [Sonic CD](https://github.com/TWS2401/Sonic-CD-WASM) - port by [TWS2401](https://github.com/TWS2401)
 - [Sonic the Hedgehog (2013)](https://github.com/VinMannie/Sonic-1-WASM) - ported by [MattConn](github.com/MattConn), updated by [VinMannie](https://github.com/VinMannie)
 - [Sonic the Hedgehog 2](https://github.com/VinMannie/Sonic-2-WASM) - ported by [MattConn](github.com/MattConn), updated by [VinMannie](https://github.com/VinMannie)
