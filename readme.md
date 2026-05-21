@@ -1,5 +1,6 @@
 # web ports
 - [20 Minutes](https://github.com/web-ports/20-minutes) - port by bog and rah
+- [A Game about Feeding a Black Hole](https://github.com/GrassPorts/A-Game-About-Feeding-A-Black-Hole) - port by [grass](https://github.com/GrassPorts)
 - [Amanda The Adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) - Ported by [bread](https://github.com/genizy)
 - [Andy's Apple Farm](https://github.com/genizy/web-port/tree/main/andys-apple-farm) - Ported by [bread](https://github.com/genizy)
 - [Animal Crossing](https://github.com/web-ports/ac-gamecube)
