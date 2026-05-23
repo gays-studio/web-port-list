@@ -98,6 +98,7 @@
 - [Kindergarten 3](https://github.com/slqntdevss/Kindergarten3Port) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Klifur](https://github.com/aukak/klifur) - port by [bog/aukak](https://github.com/aukak)
 - [Lacey's Flash Games](https://github.com/genizy/web-port/tree/main/laceys-flash-games) - Ported by [bread](https://github.com/genizy)
+- [La Madriguera](https://github.com/web-ports/la-madriguera) - port by [bread](https://github.com/genizy)
 - [Lethal Ape](https://github.com/web-ports/lethal-ape) - port by [98Corbins](https://98cornbin.netlify.app)
 - [Lobotomy Corporation](https://github.com/Reeyuki/lobcorp) - port by [reeyuki](https://reeyuki.nekoweb.org)
 - [Marble Blast Gold & Marble Blast Platinum](https://github.com/Vanilagy/MarbleBlast) - port by [Vanilagy](https://github.com/Vanilagy)
