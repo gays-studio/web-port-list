@@ -102,6 +102,7 @@
 - [Lethal Ape](https://github.com/web-ports/lethal-ape) - port by [98Corbins](https://98cornbin.netlify.app)
 - [Lobotomy Corporation](https://github.com/Reeyuki/lobcorp) - port by [reeyuki](https://reeyuki.nekoweb.org)
 - [Marble Blast Gold & Marble Blast Platinum](https://github.com/Vanilagy/MarbleBlast) - port by [Vanilagy](https://github.com/Vanilagy)
+- [Meteor 60 Seconds](https://github.com/ThatWirdGuy/Meteor-60-Seconds-Web) - port by [ThatWirdGuy](https://github.com/ThatWirdGuy)
 - [Milk inside a bag of milk inside a bag of milk](https://github.com/web-ports/milk-bag-games/tree/main/inside) - ported by [sky](https://github.com/skysthelimitt)
 - [Milk outside a bag of milk outside a bag of milk](https://github.com/web-ports/milk-bag-games/tree/main/outside) - ported by [sky](https://github.com/skysthelimitt)
 - [Milkman Karlson](https://github.com/aukak/gameports/tree/main/milkman%20karlson) - Ported by [bog/aukak](https://github.com/aukak)
