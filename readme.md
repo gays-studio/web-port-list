@@ -179,6 +179,7 @@
 - [Who's Your Daddy?](https://github.com/Reeyuki/daddygame), [2](https://github.com/web-ports/daddygame) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Witch's Heart](https://github.com/genizy/web-port/tree/main/witch-heart) - port by [bread](https://github.com/genizy)
 - [Wizards in Shorts](https://github.com/Reeyuki/WizardsInShorts) - port by [reeyuki](https://reeyuki.nekoweb.org/)
+- [Worldbox](https://gitlab.com/Shindo957-Official/worldfox) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
 - [Xash3D](https://github.com/btarg/Xash3D-Emscripten) - port by mittorn
 - [Youtubers Life OMG!](https://github.com/Reeyuki/ytlifeomg) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [You Want Half a Mounds Bar](https://github.com/wasm-rip/You-Want-Half-A-Mounds-Bar-Web) - port by dude
