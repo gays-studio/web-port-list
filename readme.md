@@ -177,6 +177,7 @@
 - [UvuvwevwevweOnyetenvewveUgwemubwemOssas](https://github.com/bubbls/ports/tree/main/UvuvwevwevweOnyetenvewveUgwemubwemOssas) - port by [bubbls](https://github.com/bubbls)
 - [Void Whispers](https://github.com/degloved-net/void-whispers) - port by [cirsius](https://github.com/cirsius)
 - [Webfishing](https://github.com/genizy/web-port/tree/main/web-fishing) - Ported by [bread](https://github.com/genizy)
+- [while True: learn()](https://github.com/dashiellbenton/ports/tree/main/while-true-learn) - port by [dasher](https://github.com/dashiellbenton)
 - [Who's Your Daddy?](https://github.com/Reeyuki/daddygame), [2](https://github.com/web-ports/daddygame) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Witch's Heart](https://github.com/genizy/web-port/tree/main/witch-heart) - port by [bread](https://github.com/genizy)
 - [Wizards in Shorts](https://github.com/Reeyuki/WizardsInShorts) - port by [reeyuki](https://reeyuki.nekoweb.org/)
