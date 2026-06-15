@@ -116,6 +116,7 @@
 - [Nodebuster](https://github.com/degloved-net/nodebuster) - port by [cirsius](https://github.com/cirsius)
 - [Nothing](https://github.com/gays-studio/nothing-wasm-web), [2](https://github.com/googoogoob/NothingWebPort) - ported by [aj](https://github.com/ajtabjs)
 - [OMORI](https://github.com/genizy/web-port/tree/main/omori-fixed) - Ported by [bread](https://github.com/genizy)
+- [One Night At Kim Jong Un's](https://github.com/usheje883-maker/One-Night-At-Kim-Jong-Un-s-Webport) - port by [ThatWirdGuy2](https://github.com/https://github.com/usheje883-maker)
 - Oneshot (Legacy) - ported by arandomperson
 - [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
 - [PEAK](https://github.com/wasmdotrip/Peak-Port) - port by [dasher](https://github.com/dashiellbenton)
@@ -165,7 +166,7 @@
 - [That's Not My Neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) - Ported by [bread](https://github.com/genizy)
 - [The Man From the Window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) - Ported by [bread](https://github.com/genizy)
 - [The Man From the Window 2](https://github.com/wasm-rip/the-man-from-the-window-2-web) - port by dude
-- [There's a Butcher Around](https://github.com/usheje883-maker/There-s-A-Butcher-Around-Webport) - port by [usheje883-maker](https://github.com/usheje883-maker)
+- [There's a Butcher Around](https://github.com/usheje883-maker/There-s-A-Butcher-Around-Webport) - port by [ThatWirdGuy2](https://github.com/usheje883-maker)
 - [Totally Accurate Battle Simulator](https://github.com/web-ports/tabs), [2](https://github.com/Reeyuki/Tabs) - port by bread
 - [Touhou Mother](https://github.com/aukak/gameports/tree/main/touhou%20mother) - Ported by [bog/aukak](https://github.com/aukak)
 - [Traffic Racer](https://github.com/genizy/traffic-racer) - port by [bread](https://github.com/genizy)
