@@ -94,7 +94,7 @@
 - [Jelly Drift](https://github.com/genizy/web-port/tree/main/jelly-drift) - port by [bread](https://github.com/genizy)
 - [JENNY](https://github.com/MRVAPORWAVE25/JennyGameFiles) - ported by [NotDaniel](https://github.com/MRVAPORWAVE25)
 - [Just Shapes & Beats](https://github.com/web-ports/jsab) - port by [bread](https://github.com/genizy)
-- [Karlson](https://github.com/genizy/web-port/tree/main/karlson) - port by [NPA](https://github.com/National-Porting-Association)
+- [Karlson](https://github.com/genizy/web-port/tree/main/karlson), [2](https://github.com/thecheetoman/KarlsonWebPort) - port by [NPA](https://github.com/National-Porting-Association)
 - [Kill the Ice Age Baby Adventure 2](https://github.com/SomeRandomFella/kill-ice-age-baby-adventure-2-) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
 - [Kindergarten 1 & 2](https://github.com/genizy/web-port/tree/main/kindergarten) - Ported by [bread](https://github.com/genizy)
 - [Kindergarten 3](https://github.com/slqntdevss/Kindergarten3Port) - Ported by [slqnt](https://github.com/slqntdevss)
@@ -188,6 +188,7 @@
 - [Wizards in Shorts](https://github.com/Reeyuki/WizardsInShorts) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Worldbox](https://gitlab.com/Shindo957-Official/worldfox) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
 - [Xash3D](https://github.com/btarg/Xash3D-Emscripten) - port by mittorn
+- [Yesterday's Meat](https://github.com/SoupcanUBG/Yesterdays-Meat) - port by [Soupcan](https://github.com/SoupcanUBG)
 - [Youtubers Life OMG!](https://github.com/Reeyuki/ytlifeomg) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [You Want Half a Mounds Bar](https://github.com/wasm-rip/You-Want-Half-A-Mounds-Bar-Web) - port by dude
 - [Your Only Move is Hustle](https://github.com/webporting/Your-Only-Move-Is-HUSTLE), [2](https://github.com/web-ports/yomi-hustle) - port by [bog/aukak](https://github.com/aukak)
