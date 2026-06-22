@@ -195,6 +195,9 @@
 - [You Want Half a Mounds Bar](https://github.com/wasm-rip/You-Want-Half-A-Mounds-Bar-Web) - port by dude
 - [Your Only Move is Hustle](https://github.com/webporting/Your-Only-Move-Is-HUSTLE), [2](https://github.com/web-ports/yomi-hustle) - port by [bog/aukak](https://github.com/aukak)
 - [Yume Nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) - Ported by [bread](https://github.com/genizy)
+- [Jellydrift](https://github.com/barnicalstuff/jellydrift) - Ported by [syntaxical](https://github.com/xxpwnxxx420lord)
+- [SoccerBros](https://github.com/barnicalstuff/SOCCERBROS) - Ported by [syntaxical](https://github.com/xxpwnxxx420lord)
+- [Catchaware](https://github.com/barnicalstuff/captchaware) - ported by [syntaxical](https://github.com/xxpwnxxx420lord)
 
 <!-- # decomps
 [Muck](https://github.com/sodiboo/Muck) - decomp by [sodiboo](https://github.com/sodiboo) -->
