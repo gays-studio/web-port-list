@@ -26,6 +26,7 @@
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) - Ported by [bread](https://github.com/genizy)
 - [Brotato](https://github.com/BlueGameMC/BrotatoWeb), [2](https://github.com/gays-studio/brotato-webport/), [3](https://github.com/wowdabug/s1/tree/main/brotato) - ported by [BlueGameMC](https://github.com/BlueGameMC)
 - [Capuchin](https://github.com/aukak/Capuchin) - port by [bog/aukak](https://github.com/aukak)
+- [Catchaware](https://github.com/barnicalstuff/captchaware) - ported by [syntaxical](https://github.com/xxpwnxxx420lord)
 - [Cat Goes Fishing](https://github.com/Reeyuki/CatFish) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Chasing Tails ~A Promise in the Snow~ ](https://github.com/gays-studio/chasingtails) - port by [aj](https://github.com/ajtabjs)
 - [Cheese Rollers](https://github.com/SomeRandomFella/portsandrips/tree/master/CheeseRollingWeb) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
@@ -78,6 +79,7 @@
 - [Genital Jousting](https://github.com/degloved-net/genital-jousting) - port by [gurtmuncher](https://github.com/gurtmuncher)
 - [Gorilla Tag](https://github.com/web-ports/gorilla-tag), [2](https://github.com/aukak/gorrila-tag) - port by [boolonx dot com](https://boolonx.com/)
 - [Granny](https://github.com/web-ports/granny), [2](https://github.com/aukak/Granny), [3](https://github.com/woahhcrackers/GrannyWeb) - ports by [bread](https://github.com/genizy), [bog/aukak](https://github.com/aukak), crackers
+- [Granny 2](https://github.com/web-ports/granny-2) - port by [bread](https://github.com/genizy)
 - [Granny 3](https://github.com/mynamescrax/gamesforaetheris/tree/main/granny3) - port by [crax](https://github.com/mynamescrax)
 - [Gravity Circuit](https://github.com/TheChillVideoGameNerd/Gravity-Circuit-Web-Port) - port by [TheChillVideoGameNerd](https://github.com/TheChillVideoGameNerd)
 - [GTA Vice City](https://github.com/Lolendor/reVCDOS) - port by the [DOS.Zone team](dos.zone/reVCDOS)
@@ -90,6 +92,7 @@
 - [Inscryption](https://github.com/Reeyuki/InscryptionWebport) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [In Stars and Time](https://github.com/Reeyuki/InStarsAndTime) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Iron Lung](https://github.com/web-ports/iron-lung) - port by [98Corbins](https://98cornbin.netlify.app)
+- [IS THAT A GUBBY?](https://github.com/xxskidxx69420-ai/isthatagubbywebportheh) - port by [carter](https://github.com/xxskidxx69420-ai)
 - [I Spoke to God](https://github.com/degloved-net/i-spoke-to-god) - port by [gurtmuncher](https://github.com/gurtmuncher)
 - [Jelly Drift](https://github.com/genizy/web-port/tree/main/jelly-drift) - port by [bread](https://github.com/genizy)
 - [JENNY](https://github.com/MRVAPORWAVE25/JennyGameFiles) - ported by [NotDaniel](https://github.com/MRVAPORWAVE25)
@@ -118,6 +121,7 @@
 - [Nothing](https://github.com/gays-studio/nothing-wasm-web), [2](https://github.com/googoogoob/NothingWebPort) - ported by [aj](https://github.com/ajtabjs)
 - [OMORI](https://github.com/genizy/web-port/tree/main/omori-fixed) - Ported by [bread](https://github.com/genizy)
 - [One Night At Kim Jong Un's](https://github.com/usheje883-maker/One-Night-At-Kim-Jong-Un-s-Webport) - port by [ThatWirdGuy2](https://github.com/https://github.com/usheje883-maker)
+- [One Potion Please!](https://github.com/ajtabjs/onepotionplease) - port by [aj](https://github.com/ajtabjs)
 - Oneshot (Legacy) - ported by arandomperson
 - [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
 - [PEAK (VERY wip)](https://github.com/wasmdotrip/Peak-Port) - port by [dasher](https://github.com/dashiellbenton)
@@ -150,6 +154,7 @@
 - [Sonic the Hedgehog 2](https://github.com/VinMannie/Sonic-2-WASM) - ported by [MattConn](github.com/MattConn), updated by [VinMannie](https://github.com/VinMannie)
 - [Sonic Mania](https://github.com/VinMannie/SonicManiaWeb) - ported by [VinMannie](https://github.com/VinMannie)
 - [Sonic Robo Blast 2](https://github.com/chromaticpipe/SRB2-WASM), [2](https://github.com/web-ports/srb2) - ported by [chromaticpipe](https://github.com/chromaticpipe)
+- [SoccerBros](https://github.com/barnicalstuff/SOCCERBROS) - Ported by [syntaxical](https://github.com/xxpwnxxx420lord)
 - [Spaceflight Simulator](https://github.com/web-ports/spaceflight-simulator)
 - [Speed Stars](https://github.com/genizy/web-port/tree/main/speed-stars) - Ported by [98Corbins](https://98cornbin.netlify.app)
 - [S.P.L.I.T](https://github.com/degloved-net/s.p.l.i.t) - port by [gurtmuncher](https://github.com/gurtmuncher)
@@ -195,9 +200,6 @@
 - [You Want Half a Mounds Bar](https://github.com/wasm-rip/You-Want-Half-A-Mounds-Bar-Web) - port by dude
 - [Your Only Move is Hustle](https://github.com/webporting/Your-Only-Move-Is-HUSTLE), [2](https://github.com/web-ports/yomi-hustle) - port by [bog/aukak](https://github.com/aukak)
 - [Yume Nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) - Ported by [bread](https://github.com/genizy)
-- [Jellydrift](https://github.com/barnicalstuff/jellydrift) - Ported by [syntaxical](https://github.com/xxpwnxxx420lord)
-- [SoccerBros](https://github.com/barnicalstuff/SOCCERBROS) - Ported by [syntaxical](https://github.com/xxpwnxxx420lord)
-- [Catchaware](https://github.com/barnicalstuff/captchaware) - ported by [syntaxical](https://github.com/xxpwnxxx420lord)
 
 <!-- # decomps
 [Muck](https://github.com/sodiboo/Muck) - decomp by [sodiboo](https://github.com/sodiboo) -->
@@ -223,7 +225,6 @@ all by slqnt
 - Pretend it's not there
 - Stick With It
 -->
-
 ## Credits:
 - [breadbb/genizy](https://github.com/genizy)
 - [98Corbins](https://98cornbin.netlify.app)
