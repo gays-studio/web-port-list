@@ -83,6 +83,7 @@
 - [Granny 3](https://github.com/mynamescrax/gamesforaetheris/tree/main/granny3) - port by [crax](https://github.com/mynamescrax)
 - [Gravity Circuit](https://github.com/TheChillVideoGameNerd/Gravity-Circuit-Web-Port) - port by [TheChillVideoGameNerd](https://github.com/TheChillVideoGameNerd)
 - [GTA Vice City](https://github.com/Lolendor/reVCDOS) - port by the [DOS.Zone team](dos.zone/reVCDOS)
+- [Half Life 2](https://hl2.slqnt.dev/) - port by [slqnt](https://github.com/slqntdevss)
 - [Happy Sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) - Ported by [bread](https://github.com/genizy)
 - [HAYAI](https://github.com/degloved-net/HAYAI) - port by [cirsius](https://github.com/cirsius)
 - [Helltaker](https://github.com/larpinguser/Helltaker-Web/tree/main/helltakerweb) - port by [shayder](https://github.com/larpinguser)
@@ -249,4 +250,3 @@ all by slqnt
 - [TWS2401](https://github.com/TWS2401)
 - [q8j](https://github.com/q8j-dev)
 - [wasm.rip](https://wasm.rip)
-- [syntaxical](https://github.com/xxpwnxxx420lord)
