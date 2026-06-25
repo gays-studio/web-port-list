@@ -33,7 +33,7 @@
 - [Christmas Massacre](https://github.com/web-ports/christmas-massacre) - port by [98corbins](https://98.c0rbin.fun/)
 - [Class of '09](https://github.com/genizy/web-port/tree/main/class-of-09) - Ported by [bread](https://github.com/genizy)
 - [Clover Pit](https://github.com/web-ports/clover-pit) - port by [bread](https://github.com/genizy)
-- [Counter Strike & Half Life](https://github.com/x8BitRain/webXash/), [2](https://github.com/Pixelsuft/hl) - port by [x8BitRain](https://github.com/x8BitRain)
+- [Counter Strike & Half Life](https://github.com/yohimik/webxash3d-fwgs) [frontend](https://github.com/x8BitRain/webXash/), [2](https://github.com/Pixelsuft/hl) - port by [yohimik](https://github.com/yohimik)
 - [Cuphead](https://github.com/web-ports/cuphead/), [2](https://github.com/woahhcrackers/CupheadWeb) - Ported by [bread](https://github.com/genizy), Decomp by [SpanishFreddy](https://github.com/spanishfreddy) and [koi/_flixel](https://oldgrounds.xyz/)
 - [Celeste](https://github.com/MercuryWorkshop/celeste-wasm), [2](https://github.com/web-ports/celeste) - port by [Mercury Workshop](https://github.com/MercuryWorkshop), modified by [bread](https://github.com/genizy)
 - [Celeste 3D](https://github.com/gays-studio/celeste3d) - port by [aj](https://github.com/ajtabjs)
