@@ -1,5 +1,7 @@
 # web ports
 - [20 Minutes Till Dawn](https://github.com/web-ports/20-minutes) - port by bog and rah
+- [A Bite at Freddy's](https://github.com/freebuisness/assets/tree/main/258) - port by [bread](https://github.com/genizy)
+- [A Difficult Game About Climbing](https://github.com/web-ports/adgac) - port by [bread](https://github.com/genizy)
 - [A Game about Feeding a Black Hole](https://github.com/GrassPorts/A-Game-About-Feeding-A-Black-Hole) - port by [grass](https://github.com/GrassPorts)
 - [Amanda The Adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) - Ported by [bread](https://github.com/genizy)
 - [Andy's Apple Farm](https://github.com/genizy/web-port/tree/main/andys-apple-farm) - Ported by [bread](https://github.com/genizy)
@@ -7,7 +9,6 @@
 - [Angry Birds 2](https://github.com/Reeyuki/angry2) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Angry Birds Epic v3.0.1](https://github.com/DarkTerraYT/EpicWeb)
 - [Antonblast](https://github.com/web-ports/antonblast) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
-- [A Difficult Game About Climbing](https://github.com/web-ports/adgac) - port by [bread](https://github.com/genizy)
 - [Apes vs Helium](https://github.com/bubbls/UGS-Assets/tree/main/apesvshelium) - port by [slqnt](https://github.com/slqntdevss)
 - [Apotheon](https://github.com/degloved-net/Apotheon) - port by [gurtmuncher](https://github.com/gurtmuncher)
 - [Arco](https://github.com/degloved-net/arco) - port by [cirsius](https://github.com/cirsius)
