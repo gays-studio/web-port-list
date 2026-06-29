@@ -8,6 +8,7 @@
 - [Angry Birds Epic v3.0.1](https://github.com/DarkTerraYT/EpicWeb)
 - [Antonblast](https://github.com/web-ports/antonblast) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [A Difficult Game About Climbing](https://github.com/web-ports/adgac) - port by [bread](https://github.com/genizy)
+- [Apes vs Helium](https://github.com/bubbls/UGS-Assets/tree/main/apesvshelium) - port by [slqnt](https://github.com/slqntdevss)
 - [Apotheon](https://github.com/degloved-net/Apotheon) - port by [gurtmuncher](https://github.com/gurtmuncher)
 - [Arco](https://github.com/degloved-net/arco) - port by [cirsius](https://github.com/cirsius)
 - [Balatro](https://github.com/W0W53R/web-balatro) - port by [W0W53R](https://github.com/W0W53R)
