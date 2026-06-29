@@ -125,6 +125,7 @@
 - [Night in the Woods](https://github.com/reeyuki/NightInTheWoods/) - port by [reeyuki](https://reeyuki.nekoweb.org)
 - [Nodebuster](https://github.com/degloved-net/nodebuster) - port by [cirsius](https://github.com/cirsius)
 - [Nothing](https://github.com/gays-studio/nothing-wasm-web), [2](https://github.com/googoogoob/NothingWebPort) - ported by [aj](https://github.com/ajtabjs)
+- [Nubby's Number Factory](https://github.com/genizy/biologyexams/tree/main/nubbys-number-factory) - port by [bread](https://github.com/genizy)
 - [OMORI](https://github.com/genizy/web-port/tree/main/omori-fixed) - Ported by [bread](https://github.com/genizy)
 - [One Night At Kim Jong Un's](https://github.com/usheje883-maker/One-Night-At-Kim-Jong-Un-s-Webport) - port by [ThatWirdGuy2](https://github.com/https://github.com/usheje883-maker)
 - [One Potion Please!](https://github.com/ajtabjs/onepotionplease) - port by [aj](https://github.com/ajtabjs)
