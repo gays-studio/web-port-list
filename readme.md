@@ -40,7 +40,6 @@
 - [Celeste 3D](https://github.com/gays-studio/celeste3d) - port by [aj](https://github.com/ajtabjs)
 - [Cruelty Squad](https://github.com/imt00dizzy/cruelty-squad), [2](https://github.com/web-ports/cruelty-squad) - port by [dizzy](https://github.com/imt00dizzy)
 - [Dead Plate](https://github.com/genizy/web-port/tree/main/dead-plate) - Ported by [bread](https://github.com/genizy)
-- [Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Dawnfolk](https://github.com/degloved-net/dawnfolk) - port by [cirsius](https://github.com/cirsius)
 - [Deltarune Chapters 1-4](https://aukak.itch.io/deltarune) - Ported by [bread](https://github.com/genizy), Archived by [bog/aukak](https://github.com/aukak)
 - [Dice a Million](https://github.com/NotRexed/Unblocked-Games/tree/main/diceamillion) - port by [NotRexed](https://github.com/NotRexed)
@@ -175,6 +174,7 @@
 - [Talking Hippo](https://github.com/web-ports/talking-hippo)
 - [Terraria](http://github.com/mercuryWorkshop/terraria-wasm), [2](https://github.com/web-ports/terraria) - ported by mercuryworkshop, modified by [bread](https://github.com/genizy)
 - [That's Not My Neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) - Ported by [bread](https://github.com/genizy)
+- [The Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
 - [The Man From the Window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) - Ported by [bread](https://github.com/genizy)
 - [The Man From the Window 2](https://github.com/wasm-rip/the-man-from-the-window-2-web) - port by dude
 - [There's a Butcher Around](https://github.com/usheje883-maker/There-s-A-Butcher-Around-Webport) - port by [ThatWirdGuy2](https://github.com/usheje883-maker)
