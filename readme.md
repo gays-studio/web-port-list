@@ -172,7 +172,7 @@
 - [Suicide Guy Deluxe](https://github.com/Reeyuki/SuicideGuyDeluxe) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [Super Choppy Orc](https://github.com/gays-studio/super-choppy-orc) - port by [aj](https://github.com/ajtabjs)
 - [Super Mario Bros. Remastered](https://github.com/bubbls/ports/blob/main/smb-remastered) - port by [bubbls](https://github.com/bubbls)
-- [Super Mario 64 FPS](https://github.com/gays-studio/sm64fps-port) - ported by [aj](https://github.com/ajtabjs)
+- [Super Mario 64 FPS](https://github.com/gays-studio/sm64fps-port), [2](https://github.com/thecheetoman/smfps) - ported by [aj](https://github.com/ajtabjs)
 - [Sunky's Schoolhouse](https://github.com/gays-studio/sunkys-schoolhouse-webport) - ported by [aj](https://github.com/ajtabjs)
 - [Super Monkey Ball](https://monkeyball-online.pages.dev/) - ported by [Twilight](https://ko-fi.com/twilightpb)
 - [T Cubed](https://github.com/web-ports/baldi-mods/tree/main/t3) - ported by [bog/aukak](https://github.com/aukak)
