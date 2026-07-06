@@ -90,7 +90,7 @@
 - [HAYAI](https://github.com/degloved-net/HAYAI) - port by [cirsius](https://github.com/cirsius)
 - [Helltaker](https://github.com/larpinguser/Helltaker-Web/tree/main/helltakerweb) - port by [shayder](https://github.com/larpinguser)
 - [Hotline Miami](https://github.com/genizy/web-port/tree/main/hotline-miami) - Ported by [98Corbins](https://98.c0rbin.fun/)
-- [Hollow Knight](https://github.com/aukak/hollow-knight) - port by [bog/aukak](https://github.com/aukak)
+- [Hollow Knight](https://github.com/aukak/hollow-knight), [2](https://github.com/NOTAHACKER9999/Hollow-Knight-Port) - port by [bog/aukak](https://github.com/aukak)
 - [Hollow Knight: Silksong](https://github.com/web-ports/hollow-knight-silksong), [2](https://github.com/webporting/Hollow-Knight-Silksong) - port by [bog/aukak](https://github.com/aukak)
 - [Inscryption](https://github.com/Reeyuki/InscryptionWebport) - port by [reeyuki](https://reeyuki.nekoweb.org/)
 - [In Stars and Time](https://github.com/Reeyuki/InStarsAndTime) - port by [reeyuki](https://reeyuki.nekoweb.org/)
