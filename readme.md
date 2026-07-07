@@ -23,6 +23,7 @@
 - Beatblock - port by bog
 - [Bendy and The Ink Machine](https://github.com/woahhcrackers/BATIMWeb) - port by [crackers](https://github.com/woahhcrackers)
 - [BERGENTRUCK 201x](https://github.com/genizy/web-port/tree/main/bergentruck) - Ported by [bread](https://github.com/genizy)
+- [Black Hole Fishing](https://github.com/mynamescrax/gamesforaetheris/tree/main/blackholefishing) - port by [crax](https://github.com/mynamescrax)
 - [BLOODMONEY!](https://github.com/genizy/web-port/tree/main/bloodmoney) - Ported by [bread](https://github.com/genizy)
 - [boil Noodles at Night](https://github.com/SomeRandomFella/portsandrips/tree/master/boilnoodles) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) - Ported by [bread](https://github.com/genizy)
