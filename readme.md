@@ -17,7 +17,7 @@
 - [Baldi's Basics Classic Remastered](https://github.com/genizy/web-port/tree/main/baldi-remaster) - Ported by [koi/_flixel](https://oldgrounds.xyz/)
 - [Baldi's Basics Plus](https://github.com/genizy/web-port/tree/main/baldi-plus) - Ported by [koi/_flixel](https://oldgrounds.xyz/), updated by [bread](https://github.com/genizy)
 - [Baldi's Basics: Minus 3](https://github.com/aukak/-3) - port by [bog/aukak](https://github.com/aukak)
-- [Baldi Balds The Universe](https://cdn.jsdelivr.net/gh/Reeyuki/YukiPorts@main/html/baldiBalds.html) - port by [reeyuki](https://reeyuki.neocities.org/)
+- [Baldi Balds The Universe](github.com/reeyuki/baldiBaldsTheUniverse) - port by [reeyuki](https://reeyuki.neocities.org/)
 - [Bat to Bed Demo](https://github.com/gays-studio/BatToBed-DEMO-webport) - port by [aj](https://github.com/ajtabjs)
 - [Bat to the Heavens](https://github.com/gays-studio/bat-to-the-heavens)- port by [aj](https://github.com/ajtabjs)
 - [Beat Banger](https://github.com/ajtabjs/bbport) - port by [aj](https://github.com/ajtabjs)
@@ -91,7 +91,7 @@
 - [Half Life 2](https://hl2.slqnt.dev/) - port by [slqnt](https://github.com/slqntdevss)
 - [Happy Sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) - Ported by [bread](https://github.com/genizy)
 - [HAYAI](https://github.com/degloved-net/HAYAI) - port by [cirsius](https://github.com/cirsius)
-- [Helltaker](https://github.com/larpinguser/Helltaker-Web/tree/main/helltakerweb), [2](https://github.com/reeyuki/Helltaker-Webport) - port by [shayder](https://github.com/larpinguser)
+- [Helltaker](https://github.com/larpinguser/Helltaker-Web/tree/main/helltakerweb), [2](https://github.com/reeyuki/Helltaker-Webport) - port by [shayder](https://github.com/larpinguser), [reeyuki](https://reeyuki.neocities.org)
 - [Hotline Miami](https://github.com/genizy/web-port/tree/main/hotline-miami) - Ported by [98Corbins](https://98.c0rbin.fun/)
 - [Hollow Knight](https://github.com/aukak/hollow-knight), [2](https://github.com/NOTAHACKER9999/Hollow-Knight-Port) - port by [bog/aukak](https://github.com/aukak)
 - [Hollow Knight: Silksong](https://github.com/web-ports/hollow-knight-silksong), [2](https://github.com/webporting/Hollow-Knight-Silksong) - port by [bog/aukak](https://github.com/aukak)
@@ -186,9 +186,9 @@
 - [The Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
 - [The Man From the Window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) - Ported by [bread](https://github.com/genizy)
 - [The Man From the Window 2](https://github.com/wasm-rip/the-man-from-the-window-2-web) - port by dude
-- [The Math Is Leaking](https://cdn.jsdelivr.net/gh/Reeyuki/YukiPorts@main/html/themathisleaking.html) - port by [reeyuki](https://reeyuki.neocities.org/)
+- [The Math Is Leaking](https://github.com/reeyuki/themathisleaking) - port by [reeyuki](https://reeyuki.neocities.org/)
 - [There's a Butcher Around](https://github.com/usheje883-maker/There-s-A-Butcher-Around-Webport) - port by [ThatWirdGuy2](https://github.com/usheje883-maker)
-- [Totally Accurate Battle Simulator](https://github.com/web-ports/tabs), [2](https://github.com/Reeyuki/Tabs) - port by bread
+- [Totally Accurate Battle Simulator](https://github.com/web-ports/tabs), [2](https://github.com/Reeyuki/Tabs) - port by bread, reeyuki
 - [Touhou Mother](https://github.com/aukak/gameports/tree/main/touhou%20mother) - Ported by [bog/aukak](https://github.com/aukak)
 - [Traffic Racer](https://github.com/genizy/traffic-racer) - port by [bread](https://github.com/genizy)
 - [TriZon](https://github.com/degloved-net/trizon) - port by [cirsius](https://github.com/cirsius)
