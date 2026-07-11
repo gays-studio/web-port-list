@@ -54,7 +54,7 @@
 - [Doom 3](https://github.com/web-ports/doom-3), [original](https://github.com/gabrielcuvillier/d3wasm) - Ported by [98corbins](https://98.c0rbin.fun/), [gabrielcuvillier](https://github.com/gabrielcuvillier)
 - [Dude Simulator](https://dude-simulator-webgl.netlify.app/) - port by carter
 - [Dude Simulator 2](https://dude-sim-2-webgl-ported-by-carteryes.netlify.app/ ) - port by carter
-- [Duck Life Adventure](https://github.com/aukak/duck-life-adventure), [2](https://github.com/web-ports/duck-8) - Ported by [bog/aukak](github.com/aukak)
+- [Duck Life Adventure](https://github.com/aukak/duck-life-adventure), [2](https://github.com/web-ports/duck-8) - Ported by [bog/aukak](https://github.com/aukak)
 - [Dumb Ways to Die (v1.6)](https://github.com/web-ports/dumb-ways-to-die) - port by [bread](https://github.com/genizy)
 - [Fear and Hunger](https://github.com/web-ports/fear-and-hunger) - port by [bread](https://github.com/genizy)
 - [Fear and Hunger 2: Termina](https://github.com/web-ports/fear-and-hunger-2) - port by [bread](https://github.com/genizy)
@@ -163,8 +163,8 @@
 - [Slime Ranchers](https://github.com/web-ports/slime-ranchers), [2](https://github.com/Reeyuki/SlimeRanch) - port by [snubby](https://snubby.top)
 - [Something](https://github.com/gays-studio/something-web), [2](https://github.com/googoogoob/SomethingWebPort), [3](https://github.com/BestSpark687090/bestspark-web-ports/tree/main/actual-something) - ported by [aj](https://github.com/ajtabjs)
 - [Sonic CD](https://github.com/TWS2401/Sonic-CD-WASM) - port by [TWS2401](https://github.com/TWS2401)
-- [Sonic the Hedgehog (2013)](https://github.com/VinMannie/Sonic-1-WASM) - ported by [MattConn](github.com/MattConn), updated by [VinMannie](https://github.com/VinMannie)
-- [Sonic the Hedgehog 2](https://github.com/VinMannie/Sonic-2-WASM) - ported by [MattConn](github.com/MattConn), updated by [VinMannie](https://github.com/VinMannie)
+- [Sonic the Hedgehog (2013)](https://github.com/VinMannie/Sonic-1-WASM) - ported by [MattConn](https://github.com/MattConn), updated by [VinMannie](https://github.com/VinMannie)
+- [Sonic the Hedgehog 2](https://github.com/VinMannie/Sonic-2-WASM) - ported by [MattConn](https://github.com/MattConn), updated by [VinMannie](https://github.com/VinMannie)
 - [Sonic Mania](https://github.com/VinMannie/SonicManiaWeb) - ported by [VinMannie](https://github.com/VinMannie)
 - [Sonic Robo Blast 2](https://github.com/chromaticpipe/SRB2-WASM), [2](https://github.com/web-ports/srb2) - ported by [chromaticpipe](https://github.com/chromaticpipe)
 - [Spaceflight Simulator](https://github.com/web-ports/spaceflight-simulator)
