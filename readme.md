@@ -180,7 +180,7 @@
 - [Super Mario 64 FPS](https://github.com/gays-studio/sm64fps-port), [2](https://github.com/thecheetoman/smfps) - ported by [aj](https://github.com/ajtabjs)
 - [Sunky's Schoolhouse](https://github.com/gays-studio/sunkys-schoolhouse-webport) - ported by [aj](https://github.com/ajtabjs)
 - [Super Monkey Ball](https://monkeyball-online.pages.dev/) - ported by [Twilight](https://ko-fi.com/twilightpb)
-- [T Cubed](https://github.com/web-ports/baldi-mods/tree/main/t3) - ported by [bog/aukak](https://github.com/aukak)
+- [T Cubed](https://github.com/web-ports/baldi-mods/tree/main/t3), [2](https://github.com/GlaceonFan77/T-Cubed-Web) - ported by [bog/aukak](https://github.com/aukak)
 - [Taiko no Tatsujin](https://cjdgrevival.com/)
 - [Terraria](https://github.com/mercuryWorkshop/terraria-wasm), [2](https://github.com/web-ports/terraria) - ported by mercuryworkshop, modified by [bread](https://github.com/genizy)
 - [That's Not My Neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) - Ported by [bread](https://github.com/genizy)
