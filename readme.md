@@ -133,7 +133,7 @@
 - [OMORI](https://github.com/genizy/web-port/tree/main/omori-fixed) - Ported by [bread](https://github.com/genizy)
 - [One Night At Kim Jong Un's](https://github.com/usheje883-maker/One-Night-At-Kim-Jong-Un-s-Webport) - port by [ThatWirdGuy2](https://github.com/https://github.com/usheje883-maker)
 - [One Potion Please!](https://github.com/ajtabjs/onepotionplease) - port by [aj](https://github.com/ajtabjs)
-- Oneshot (Legacy) - ported by arandomperson
+- [Oneshot (Legacy)](https://github.com/67-Factory/oneshotthing) - ported by [ARandomIPerson](https://github.com/67-Factory)
 - [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
 - [PEAK (VERY wip)](https://github.com/wasmdotrip/Peak-Port) - port by [dasher](https://github.com/dashiellbenton)
 - [Peaks of Yore](https://github.com/web-ports/peaks-of-yore) - port by [bread](https://github.com/genizy)
