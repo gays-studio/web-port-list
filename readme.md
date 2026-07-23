@@ -63,6 +63,7 @@
 - [Fear and Hunger 2: Termina](https://github.com/web-ports/fear-and-hunger-2) - port by [bread](https://github.com/genizy)
 - [Feed & Grow Fish](https://reeyukifish.pages.dev/) - port by [reeyuki](https://reeyuki.neocities.org/)
 - [Fears to Fathom: Home Alone](https://github.com/slqntdevss/FTFHAPort) - Ported by [slqnt](https://github.com/slqntdevss)
+- [FIH](https://github.com/InsayneBoko/fih-port/tree/main/port) - port by [InsayneBoko](https://github.com/InsayneBoko)
 - [FISH](https://github.com/web-ports/fish) - port by [bread](https://github.com/genizy)
 - [FNAF](https://github.com/genizy/web-port/tree/main/fnaf) - Ported by [irv77](https://github.com/irv77)
 - [Five Nights at Candy's 1](https://github.com/web-ports/fnac/tree/main/1) - Ported by [breadbb](https://gn-math.dev)
