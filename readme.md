@@ -143,7 +143,7 @@
 - [One Potion Please!](https://github.com/ajtabjs/onepotionplease) - port by [aj](https://github.com/ajtabjs)
 - [Oneshot (Legacy)](https://github.com/67-Factory/oneshotthing) - ported by [Kitaylena](https://github.com/Kitaylena)
 - [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
-- [PEAK (VERY wip)](https://github.com/wasmdotrip/Peak-Port) - port by [dasher](https://github.com/dashiellbenton)
+- [PEAK](https://github.com/wasmdotrip/Peak-Port) - port by [dasher](https://github.com/dashiellbenton)
 - [Peaks of Yore](https://github.com/web-ports/peaks-of-yore) - port by [bread](https://github.com/genizy)
 - [People Playground](https://github.com/bubbls/ugss/tree/main/people-playground), [original port](https://github.com/genizy/web-port/tree/main/people-playground) - Ported by [98Corbins](https://98.c0rbin.fun/), updated by [bog/aukak](https://github.com/aukak)
 - [Pizza Tower](https://github.com/genizy/web-port/tree/main/pizza-tower) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
