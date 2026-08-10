@@ -113,6 +113,7 @@
 - [JENNY](https://github.com/MRVAPORWAVE25/JennyGameFiles) - ported by [NotDaniel](https://github.com/MRVAPORWAVE25)
 - [Just Shapes & Beats](https://github.com/web-ports/jsab) - port by [bread](https://github.com/genizy)
 - [Karlson](https://github.com/genizy/web-port/tree/main/karlson), [2](https://github.com/thecheetoman/KarlsonWebPort) - port by [NPA](https://github.com/National-Porting-Association)
+- [Karlson 2D](https://truffled.lol/games/karlson2d/truffledkarlson2d/index.html), [2](https://github.com/PopsicleYT/pinkdih-ports/tree/main/karlson2dweb) - port by [bog/aukak](https://github.com/aukak)
 - [Kill the Ice Age Baby Adventure 2](https://github.com/SomeRandomFella/kill-ice-age-baby-adventure-2-) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
 - [Kindergarten 1 & 2](https://github.com/genizy/web-port/tree/main/kindergarten) - Ported by [bread](https://github.com/genizy)
 - [Kindergarten 3](https://github.com/slqntdevss/Kindergarten3Port) - Ported by [slqnt](https://github.com/slqntdevss)
