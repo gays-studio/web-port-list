@@ -29,7 +29,7 @@
 - [Black Hole Fishing](https://github.com/mynamescrax/gamesforaetheris/tree/main/blackholefishing) - port by [crax](https://github.com/mynamescrax)
 - [BLOODMONEY!](https://github.com/genizy/web-port/tree/main/bloodmoney) - Ported by [bread](https://github.com/genizy)
 - [boil Noodles at Night](https://github.com/SomeRandomFella/portsandrips/tree/master/boilnoodles) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
-- [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette) - Ported by [bread](https://github.com/genizy)
+- [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette), [2](https://github.com/Stratus-Games/Buckshot-NEWEST-Port) - Ported by [bread](https://github.com/genizy), latest ver by glitch
 - [Brotato](https://github.com/BlueGameMC/BrotatoWeb), [2](https://github.com/gays-studio/brotato-webport/), [3](https://github.com/wowdabug/s1/tree/main/brotato) - ported by [BlueGameMC](https://github.com/BlueGameMC)
 - [Capuchin](https://github.com/aukak/Capuchin) - port by [bog/aukak](https://github.com/aukak)
 - [Carmageddon](https://github.com/Carter54git/dethrace-ported-to-web) - port by [Carter54](https://github.com/Carter54git)
@@ -155,7 +155,7 @@
 - [Promises to Keep](https://gitea.mcalec.dev/mcalec/ptk) - port by [mcalec](https://mcalec.dev/)
 - [Portal](https://github.com/weliveinhell/source-engine) - ported by [weliveinhell](https://github.com/weliveinhell)
 - [Potion Craft: Alchemist Simulator](https://github.com/GrassPorts/Potion-Craft-Alchemy-Simulator) - port by [grass](https://github.com/GrassPorts)
-- [Power Hover](https://github.com/web-ports/power-hover)
+- [Power Hover](https://github.com/web-ports/power-hover) - port by [bread](https://github.com/genizy)
 - [Quake](https://github.com/GMH-Code/Qwasm) - port by [GMH-Code](https://github.com/GMH-Code)
 - [Quake 2](https://github.com/GMH-Code/Qwasm2) - port by [GMH-Code](https://github.com/GMH-Code)
 - [RAFT](https://github.com/genizy/web-port/tree/main/raft) - Ported by Ashen Arrow
