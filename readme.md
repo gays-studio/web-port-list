@@ -7,6 +7,7 @@
 - [A Game about Feeding a Black Hole](https://github.com/GrassPorts/A-Game-About-Feeding-A-Black-Hole) - port by [grass](https://github.com/GrassPorts)
 - [Amanda The Adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) - Ported by [bread](https://github.com/genizy)
 - [Andy's Apple Farm](https://github.com/genizy/web-port/tree/main/andys-apple-farm) - Ported by [bread](https://github.com/genizy)
+- [Albion](https://github.com/IS4Code/Albion) - port by [IS4](https://github.com/IS4Code)
 - [Animal Crossing](https://github.com/web-ports/ac-gamecube)
 - [Angry Birds 2](https://github.com/Reeyuki/angry2) - port by [reeyuki](https://reeyuki.neocities.org/)
 - [Angry Birds Epic v3.0.1](https://github.com/DarkTerraYT/EpicWeb)
