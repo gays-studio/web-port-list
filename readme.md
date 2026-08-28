@@ -19,7 +19,6 @@
 - [Baldi's Basics Birthday Bash](https://github.com/woahhcrackers/BirthdayBashWeb) - port by [crackers](https://github.com/woahhcrackers)
 - [Baldi's Basics Classic Remastered](https://github.com/genizy/web-port/tree/main/baldi-remaster) - Ported by [koi/_flixel](https://oldgrounds.xyz/)
 - [Baldi's Basics Plus](https://github.com/genizy/web-port/tree/main/baldi-plus) - Ported by [koi/_flixel](https://oldgrounds.xyz/), updated by [bread](https://github.com/genizy)
-- [Baldi's Basics: Minus 3](https://github.com/aukak/-3) - port by [bog/aukak](https://github.com/aukak)
 - [Baldi Balds The Universe](https://github.com/reeyuki/baldiBaldsTheUniverse) - port by [reeyuki](https://reeyuki.neocities.org/)
 - [Bat to Bed Demo](https://github.com/gays-studio/BatToBed-DEMO-webport) - port by [aj](https://github.com/ajtabjs)
 - [Bat to the Heavens](https://github.com/gays-studio/bat-to-the-heavens)- port by [aj](https://github.com/ajtabjs)
