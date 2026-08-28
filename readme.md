@@ -198,7 +198,7 @@
 - [Super Monkey Ball](https://monkeyball-online.pages.dev/) - ported by [Twilight](https://ko-fi.com/twilightpb)
 - [T Cubed](https://github.com/web-ports/baldi-mods/tree/main/t3), [2](https://github.com/GlaceonFan77/T-Cubed-Web) - ported by [bog/aukak](https://github.com/aukak)
 - [Taiko no Tatsujin](https://cjdgrevival.com/)
-- [Terraria](https://github.com/mercuryWorkshop/terraria-wasm), [2](https://github.com/web-ports/terraria) - ported by mercuryworkshop, modified by [bread](https://github.com/genizy)
+- [Terraria](https://github.com/MercuryWorkshop/terraria-wasm), [2](https://github.com/web-ports/terraria) - ported by [Mercury Workshop](httpsL//github.com/MercuryWorkshop], modified by [bread](https://github.com/genizy)
 - [That's Not My Neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) - Ported by [bread](https://github.com/genizy)
 - [The Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
 - [The Man From the Window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) - Ported by [bread](https://github.com/genizy)
