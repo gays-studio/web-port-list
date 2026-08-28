@@ -169,6 +169,7 @@
 - [Running Fred](https://github.com/aukak/running-fred) - port by [bog/aukak](https://github.com/aukak)
 - [Saihate Station](https://github.com/web-ports/saihate-station)
 - [Scoutdingo](https://github.com/web-ports/scoutdingo) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
+- [SCP: Containment Breach](https://github.com/larpinguser/q8j) - port by [q8j](https://github.com/q8j-dev)
 - [Sex with Hitler](https://github.com/ajtabjs/swhport) - port by [aj](https://github.com/ajtabjs)
 - [Shift at Midnight](https://github.com/webporting/Shift-At-Midnight) - ported by [slqnt](https://github.com/slqntdevss)
 - [Slender: The Eight Pages](https://github.com/genizy/web-port/tree/main/slender) - Ported by [bread](https://github.com/genizy)
