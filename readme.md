@@ -171,6 +171,7 @@
 - [SCP: Containment Breach](https://github.com/larpinguser/q8j) - port by [q8j](https://github.com/q8j-dev)
 - [Sex with Hitler](https://github.com/ajtabjs/swhport) - port by [aj](https://github.com/ajtabjs)
 - [Shift at Midnight](https://github.com/webporting/Shift-At-Midnight) - ported by [slqnt](https://github.com/slqntdevss)
+- [Shrimpio](https://github.com/goodmeals/shrimpio) - port by [bog/aukak](https://github.com/aukak)
 - [Slender: The Eight Pages](https://github.com/genizy/web-port/tree/main/slender) - Ported by [bread](https://github.com/genizy)
 - [Slenderina The Cellar](https://github.com/Reeyuki/slenderina) - port by [reeyuki](https://reeyuki.neocities.org/)
 - [Slendytubbies](https://github.com/web-ports/slendytubbies) - port by [bread](https://github.com/genizy), [98Corbins](https://98.c0rbin.fun/)
