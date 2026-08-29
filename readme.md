@@ -108,7 +108,7 @@
 - [Hollow Knight: Silksong](https://github.com/web-ports/hollow-knight-silksong), [2](https://github.com/webporting/Hollow-Knight-Silksong) - port by [bog/aukak](https://github.com/aukak)
 - [HYDROGEN](https://github.com/BestSpark687090/bestspark-web-ports/tree/main/hydrogen) - port by [BestSpark687090](https://github.com/BestSpark687090)
 - [Inscryption](https://github.com/Reeyuki/InscryptionWebport) - port by [reeyuki](https://reeyuki.neocities.org/)
-- [In Stars and Time](https://github.com/Reeyuki/InStarsAndTime) - port by [reeyuki](https://reeyuki.neocities.org/)
+- [In Stars and Time](https://github.com/web-ports/in-stars-and-time), [2](https://github.com/Reeyuki/InStarsAndTime) - port by [bread](https://github.com/genizy), second link [reeyuki](https://reeyuki.neocities.org/)
 - [Iron Lung](https://github.com/web-ports/iron-lung) - port by [98Corbins](https://98.c0rbin.fun/)
 - [IS THAT A GUBBY?](https://github.com/xxskidxx69420-ai/isthatagubbywebportheh) - port by [carter](https://github.com/xxskidxx69420-ai)
 - [I Spoke to God](https://github.com/degloved-net/i-spoke-to-god) - port by [gurtmuncher](https://github.com/gurtmuncher)
