@@ -98,7 +98,7 @@
 - [Granny 3](https://github.com/mynamescrax/gamesforaetheris/tree/main/granny3) - port by [crax](https://github.com/mynamescrax)
 - [Gravity Circuit](https://github.com/TheChillVideoGameNerd/Gravity-Circuit-Web-Port) - port by [TheChillVideoGameNerd](https://github.com/TheChillVideoGameNerd)
 - [GTA 3](https://github.com/larpinguser/HelloWorldScriptBasicFunctionCSharpIsCool/) - port by [shxyder](https://github.com/larpinguser)
-- [GTA Vice City](https://github.com/Lolendor/reVCDOS) - port by the [DOS.Zone team](dos.zone/reVCDOS)
+- [GTA Vice City](https://github.com/Lolendor/reVCDOS) - port by the [DOS.Zone team](https://dos.zone/reVCDOS)
 - [Half Life 2](https://hl2.slqnt.dev/) - port by [slqnt](https://github.com/slqntdevss)
 - [Happy Sheepies](https://github.com/genizy/web-port/tree/main/happy-sheepies) - Ported by [bread](https://github.com/genizy)
 - [HAYAI](https://github.com/degloved-net/HAYAI) - port by [cirsius](https://github.com/cirsius)
