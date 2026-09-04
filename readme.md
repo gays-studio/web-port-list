@@ -221,6 +221,7 @@
 - [Upload Labs](https://github.com/googoogoob/UploadLabsWebPort) - port by [thecheetoman](https://github.com/thecheetoman)
 - [Upstream](https://github.com/degloved-net/upstream) - port by [gurtmuncher](https://github.com/gurtmuncher)
 - [UvuvwevwevweOnyetenvewveUgwemubwemOssas](https://github.com/bubbls/ports/tree/main/UvuvwevwevweOnyetenvewveUgwemubwemOssas) - port by [bubbls](https://github.com/bubbls)
+- [Very Realistic Game Dev Simulator](https://github.com/UMMMM-GUYSSS/Very-Realistic-Game-Dev-Simulator) - port by [yourlosingblood](https://github.com/UMMMM-GUYSSS)
 - [Void Whispers](https://github.com/degloved-net/void-whispers) - port by [cirsius](https://github.com/cirsius)
 - [Webfishing](https://github.com/genizy/web-port/tree/main/web-fishing) - Ported by [bread](https://github.com/genizy), [bog/aukak](https://github.com/aukak) & [98Corbins](https://98.c0rbin.fun/)
 - [while True: learn()](https://github.com/dashiellbenton/ports/tree/main/while-true-learn) - port by [dasher](https://github.com/dashiellbenton)
