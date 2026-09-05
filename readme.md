@@ -162,6 +162,7 @@
 - [Portal](https://github.com/weliveinhell/source-engine) - ported by [weliveinhell](https://github.com/weliveinhell)
 - [Potion Craft: Alchemist Simulator](https://github.com/GrassPorts/Potion-Craft-Alchemy-Simulator) - port by [grass](https://github.com/GrassPorts)
 - [Power Hover](https://github.com/web-ports/power-hover) - port by [bread](https://github.com/genizy)
+- [Pyschopomp](https://github.com/z4laxis/PsychopompWebport) - port by [zalaxis](https://github.com/z4laxis)
 - [Quake](https://github.com/GMH-Code/Qwasm) - port by [GMH-Code](https://github.com/GMH-Code)
 - [Quake 2](https://github.com/GMH-Code/Qwasm2) - port by [GMH-Code](https://github.com/GMH-Code)
 - [RAFT](https://github.com/genizy/web-port/tree/main/raft) - Ported by Ashen Arrow
