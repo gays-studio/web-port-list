@@ -188,7 +188,7 @@
 - [Sonic the Hedgehog 2](https://github.com/VinMannie/Sonic-2-WASM) - ported by [MattConn](https://github.com/MattConn), updated by [VinMannie](https://github.com/VinMannie)
 - [Sonic Mania](https://github.com/VinMannie/SonicManiaWeb) - ported by [VinMannie](https://github.com/VinMannie)
 - [Sonic Robo Blast 2](https://github.com/chromaticpipe/SRB2-WASM), [2](https://github.com/web-ports/srb2) - ported by [chromaticpipe](https://github.com/chromaticpipe)
-- [Spaceflight Simulator](https://github.com/web-ports/spaceflight-simulator)
+- [Spaceflight Simulator](https://github.com/web-ports/spaceflight-simulator) - port by [bread](https://github.com/genizy)
 - [Speed Stars](https://github.com/genizy/web-port/tree/main/speed-stars) - Ported by [98Corbins](https://98.c0rbin.fun/)
 - [S.P.L.I.T](https://github.com/degloved-net/s.p.l.i.t) - port by [gurtmuncher](https://github.com/gurtmuncher)
 - [Stardew Valley](https://github.com/degloved-net/stardew-wasm) - port by [cirsius](https://github.com/Cirsius)
