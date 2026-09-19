@@ -5,6 +5,7 @@
 - [A Bite at Freddy's](https://github.com/freebuisness/assets/tree/main/258) - port by [bread](https://github.com/genizy)
 - [A Difficult Game About Climbing](https://github.com/web-ports/adgac) - port by [bread](https://github.com/genizy)
 - [Amanda The Adventurer](https://github.com/genizy/web-port/tree/main/amanda-the-adventurer) - Ported by [bread](https://github.com/genizy)
+- [Ambidextro](https://github.com/chromecrash/Ambidextro-browser-port) - port by [chromecrash](https://github.com/chromecrash)
 - [Andy's Apple Farm](https://github.com/genizy/web-port/tree/main/andys-apple-farm) - Ported by [bread](https://github.com/genizy)
 - [Albion](https://github.com/IS4Code/Albion) - port by [IS4](https://github.com/IS4Code)
 - [Animal Crossing](https://github.com/web-ports/ac-gamecube)
