@@ -93,6 +93,7 @@
 - [Fundamental Paper Novel](https://github.com/bubbls/ports/tree/main/fpn-FULLY_RECRAFTED-web) - port by [bubbls](https://github.com/bubbls)
 - [Fungiman](https://github.com/GrassPorts/Fungiman) - port by [grass](https://github.com/GrassPorts)
 - [Gabriel's Awesome Schoolhouse](https://github.com/web-ports/gash) - port by [bread](https://github.com/genizy)
+- [Gang Beasts](https://github.com/jmhq20120212-cmd/GangBeast-WebPort) - port by [teaser.lua](https://github.com/jmhq20120212-cmd)
 - [Getting Over It](https://github.com/genizy/web-port/tree/main/getting-over-it) - Ported by [slqnt](https://github.com/slqntdevss)
 - [Genital Jousting](https://github.com/degloved-net/genital-jousting) - port by [gurtmuncher](https://github.com/gurtmuncher)
 - [Gorilla Tag](https://github.com/web-ports/gorilla-tag), [2](https://github.com/aukak/gorrila-tag) - port by [boolonx dot com](https://boolonx.com/)
@@ -201,6 +202,7 @@
 - [SRB2 Kart](https://github.com/skyleite/Kart-Public-WASM/) - ported by [skyleite](https://github.com/skyleite)
 - [Suicide Guy Deluxe](https://github.com/Reeyuki/SuicideGuyDeluxe) - port by [reeyuki](https://reeyuki.neocities.org/)
 - [Super Choppy Orc](https://github.com/gays-studio/super-choppy-orc) - port by [aj](https://github.com/ajtabjs)
+- [Superflight](https://github.com/squidward5/superflight-webport) - port by [zay](https://github.com/squidward5)
 - [Super Mario Bros. Remastered](https://github.com/bubbls/ports/blob/main/smb-remastered) - port by [bubbls](https://github.com/bubbls)
 - [Super Mario 64 FPS](https://github.com/gays-studio/sm64fps-port), [2](https://github.com/thecheetoman/smfps) - ported by [aj](https://github.com/ajtabjs)
 - [Sunky's Schoolhouse](https://github.com/gays-studio/sunkys-schoolhouse-webport) - ported by [aj](https://github.com/ajtabjs)
@@ -214,6 +216,7 @@
 - [The Man From the Window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) - Ported by [bread](https://github.com/genizy)
 - [The Man From the Window 2](https://github.com/wasm-rip/the-man-from-the-window-2-web) - port by dude
 - [The Math Is Leaking](https://github.com/reeyuki/themathisleaking) - port by [reeyuki](https://reeyuki.neocities.org/)
+- [The Message From Deep Space](https://github.com/dashiellbenton/ports/tree/main/tmfds) - port by [dasher](https://github.com/dashiellbenton)
 - [There's a Butcher Around](https://github.com/usheje883-maker/There-s-A-Butcher-Around-Webport) - port by [ThatWirdGuy2](https://github.com/usheje883-maker)
 - [Totally Accurate Battle Simulator](https://github.com/web-ports/tabs), [2](https://github.com/Reeyuki/Tabs) - port by bread, reeyuki
 - [Touhou Mother](https://github.com/aukak/gameports/tree/main/touhou%20mother) - Ported by [bog/aukak](https://github.com/aukak)
