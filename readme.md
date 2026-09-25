@@ -211,6 +211,7 @@
 - [T Cubed](https://github.com/web-ports/baldi-mods/tree/main/t3), [2](https://github.com/GlaceonFan77/T-Cubed-Web) - ported by [bog/aukak](https://github.com/aukak)
 - [Taiko no Tatsujin](https://cjdgrevival.com/)
 - [Terraria](https://github.com/MercuryWorkshop/terraria-wasm), [2](https://github.com/web-ports/terraria) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop), modified by [bread](https://github.com/genizy)
+- [Team Fortress 2](https://tf2.riddy.workers.dev/) - port by riddy
 - [That's Not My Neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) - Ported by [bread](https://github.com/genizy)
 - [The Binding of Isaac: Repentance](https://github.com/chiikabu/the-browsing-of-isaac) - port by [chiikabu](https://github.com/chiikabu)
 - [The Deadseat](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [slqnt](https://github.com/slqntdevss)
