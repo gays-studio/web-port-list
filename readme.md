@@ -31,7 +31,7 @@
 - [BLOODMONEY!](https://github.com/genizy/web-port/tree/main/bloodmoney) - Ported by [bread](https://github.com/genizy)
 - [boil Noodles at Night](https://github.com/SomeRandomFella/portsandrips/tree/master/boilnoodles) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette), [2](https://github.com/Stratus-Games/Buckshot-NEWEST-Port) - Ported by [bread](https://github.com/genizy), latest ver by glitch
-- [Brotato](https://github.com/BlueGameMC/BrotatoWeb), [2](https://github.com/gays-studio/brotato-webport/), [3](https://github.com/wowdabug/s1/tree/main/brotato) - ported by [BlueGameMC](https://github.com/BlueGameMC)
+- [Brotato](https://github.com/degloved-net/brotato-web), [2](https://github.com/BlueGameMC/BrotatoWeb), [3](https://github.com/gays-studio/brotato-webport/), [4](https://github.com/wowdabug/s1/tree/main/brotato) - ported by [Cirsius](https://github.com/Cirsius)
 - [Capuchin](https://github.com/aukak/Capuchin) - port by [bog/aukak](https://github.com/aukak)
 - [Carmageddon](https://github.com/Carter54git/dethrace-ported-to-web) - port by [Carter54](https://github.com/Carter54git)
 - [Catchaware](https://github.com/barnicalstuff/captchaware) - ported by [syntaxical](https://github.com/xxpwnxxx420lord)
