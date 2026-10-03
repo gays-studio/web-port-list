@@ -126,6 +126,7 @@
 - [Karlson](https://github.com/genizy/web-port/tree/main/karlson), [2](https://github.com/thecheetoman/KarlsonWebPort) - port by [NPA](https://github.com/National-Porting-Association)
 - [Karlson 2D](https://truffled.lol/games/karlson2d/truffledkarlson2d/index.html), [2](https://github.com/PopsicleYT/pinkdih-ports/tree/main/karlson2dweb) - port by [bog/aukak](https://github.com/aukak)
 - [Kill the Ice Age Baby Adventure 2](https://github.com/SomeRandomFella/kill-ice-age-baby-adventure-2-) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
+- [Keep Talking and Nobody Explodes](https://github.com/squidward5/ktane-webport) - port by [zay](https://github.com/squidward5)
 - [Kerbal Space Program](https://github.com/woahhcrackers/KSPWeb) - port by [crackers](https://github.com/woahhcrackers)
 - [Kindergarten 1 & 2](https://github.com/genizy/web-port/tree/main/kindergarten) - Ported by [bread](https://github.com/genizy)
 - [Kindergarten 3](https://github.com/slqntdevss/Kindergarten3Port) - Ported by [slqnt](https://github.com/slqntdevss)
