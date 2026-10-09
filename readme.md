@@ -40,6 +40,7 @@
 - [Celeste 3D](https://github.com/gays-studio/celeste3d) - port by [aj](https://github.com/ajtabjs)
 - [Celeste 64](https://github.com/MercuryWorkshop/Celeste64) - port by [Mercury Workshop](https://github.com/MercuryWorkshop)
 - [Chasing Tails ~A Promise in the Snow~ ](https://github.com/gays-studio/chasingtails) - port by [aj](https://github.com/ajtabjs)
+- [Chain-Chillas](https://github.com/Camzzz-vrgt/chain-chillas-web) - port by [Camzzz](https://github.com/Camzzz-vrgt)
 - [Cheese Rollers](https://github.com/SomeRandomFella/portsandrips/tree/master/CheeseRollingWeb) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
 - [Christmas Massacre](https://github.com/web-ports/christmas-massacre) - port by [98corbins](https://98.c0rbin.fun/)
 - [Class of '09](https://github.com/genizy/web-port/tree/main/class-of-09) - Ported by [bread](https://github.com/genizy)
