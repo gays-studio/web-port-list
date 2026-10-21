@@ -234,7 +234,7 @@
 - [Super Choppy Orc](https://github.com/gays-studio/super-choppy-orc) - port by [aj](https://github.com/ajtabjs)
 - [Superflight](https://github.com/squidward5/superflight-webport) - port by [zay](https://github.com/squidward5)
 - [Super Mario Bros. Remastered](https://github.com/bubbls/ports/blob/main/smb-remastered) - port by [bubbls](https://github.com/bubbls)
-- [Super Mario Galaxy](https://truffled.lol/games/smg/index.html) - Ported by T4ctica1
+- [Super Mario Galaxy](https://github.com/T4ctica1YT/SMGwebport) - Ported by [T4ctica1](https://github.com/T4ctica1YT)
 - [Super Mario Sunshine](https://truffled.lol/games/sms/index.html)
 - [Super Mario 64 FPS](https://github.com/gays-studio/sm64fps-port), [2](https://github.com/thecheetoman/smfps) - ported by [aj](https://github.com/ajtabjs)
 - [Sunky's Schoolhouse](https://github.com/gays-studio/sunkys-schoolhouse-webport) - ported by [aj](https://github.com/ajtabjs)
