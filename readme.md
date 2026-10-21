@@ -179,7 +179,7 @@
 - [Oneshot (Legacy)](https://github.com/67-Factory/oneshotthing) - ported by [Kitaylena](https://github.com/Kitaylena)
 - [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
 - [Paint the Town Red](https://github.com/Reeyuki/PttrWebport) - port by [reeyuki](https://github.com/Reeyuki)
-- [Patrick’s Parabox](https://truffled.lol/games/bogparabox/index.html) - Ported by [Bog](https://github.com/puffrs)
+- [Patrick’s Parabox](https://github.com/puffrs/patrickparaboxweb) - Ported by [bog](https://github.com/puffrs)
 - [PEAK](https://github.com/wasmdotrip/Peak-Port) - port by [dasher](https://github.com/dashiellbenton)
 - [Peaks of Yore](https://github.com/web-ports/peaks-of-yore) - port by [bread](https://github.com/genizy)
 - [People Playground](https://github.com/bubbls/ugss/tree/main/people-playground), [original port](https://github.com/genizy/web-port/tree/main/people-playground) - Ported by [98Corbins](https://98.c0rbin.fun/), updated by [bog](https://github.com/puffrs)
