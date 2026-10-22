@@ -184,7 +184,7 @@
 - [Peaks of Yore](https://github.com/web-ports/peaks-of-yore) - port by [bread](https://github.com/genizy)
 - [People Playground](https://github.com/bubbls/ugss/tree/main/people-playground), [original port](https://github.com/genizy/web-port/tree/main/people-playground) - Ported by [98Corbins](https://98.c0rbin.fun/), updated by [bog](https://github.com/puffrs)
 - [Phineas and Ferb in the Transport-inators of Doooom](https://stelight.games/play/webports/stellite.games/stellite/doom/index.html) - Ported by [EndlessVortex](https://github.com/MovByte)
-- [Pikmin](https://truffled.lol/games/pikmin/index.html) - Ported by [Bog](https://github.com/puffrs)
+- [Pikmin](https://truffled.lol/games/pikmin/index.html) - Ported by [Pikmin Native](https://x.com/PikminNative)
 - [Pizza Tower](https://github.com/genizy/web-port/tree/main/pizza-tower) - Ported by [burnedpopcorn](https://github.com/burnedpopcorn)
 - [Plague Inc: Evolved](https://github.com/Reeyuki/PlagueIncEvolved) - port by [reeyuki](https://reeyuki.neocities.org/)
 - [Plants vs Zombies: GOTY Edition](https://github.com/wszqkzqk/PvZ-Portable), [2](https://github.com/web-ports/pvz), [3](https://github.com/ajtabjs/pvzdeploy) - ported by [Zhou Qiankang](https://github.com/wszqkzqk)
@@ -246,7 +246,7 @@
 - [That's Not My Neighbor](https://github.com/genizy/web-port/tree/main/thats-not-my-neighbor) - Ported by [bread](https://github.com/genizy)
 - [The Binding of Isaac: Repentance](https://github.com/chiikabu/the-browsing-of-isaac) - port by [chiikabu](https://github.com/chiikabu)
 - [The Deadseat](https://github.com/TheBlehLollipop/The-Deadseat-Webport), [2](https://github.com/genizy/web-port/tree/main/deadseat) - Ported by [Lolipop](https://github.com/TheBlehLollipop)
-- [The Legend of Zelda: Twilight Princess](https://truffled.lol/games/dusk/index.html) - Ported by [slant](https://github.com/slqntdevss)
+- [The Legend of Zelda: Twilight Princess](https://github.com/caribbeansc/dusklight) - port by [Jean Calderon](https://github.com/caribbeansc)
 - [The Man From the Window](https://github.com/genizy/web-port/tree/main/the-man-in-the-window) - Ported by [bread](https://github.com/genizy)
 - [The Man From the Window 2](https://github.com/wasm-rip/the-man-from-the-window-2-web) - port by dude
 - [The Math Is Leaking](https://github.com/reeyuki/themathisleaking) - port by [reeyuki](https://reeyuki.neocities.org/)
