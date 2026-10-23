@@ -39,7 +39,7 @@
 - [Capuchin](https://github.com/aukak/Capuchin) - port by [bog](https://github.com/puffrs)
 - [Carmageddon](https://github.com/Carter54git/dethrace-ported-to-web) - port by [Carter54](https://github.com/Carter54git)
 - [Castle Crashers](https://truffled.lol/games/castle/index.html) - Ported by [Bog](https://github.com/puffrs)
-- [Catchaware](https://github.com/barnicalstuff/captchaware) - ported by [syntaxical](https://github.com/xxpwnxxx420lord)
+- [Captchaware](https://github.com/barnicalstuff/captchaware) - ported by [syntaxical](https://github.com/xxpwnxxx420lord)
 - [Cat Goes Fishing](https://github.com/Reeyuki/CatFish) - port by [reeyuki](https://reeyuki.neocities.org/)
 - [Celeste](https://github.com/MercuryWorkshop/celeste-wasm), [2](https://github.com/web-ports/celeste) - port by [Mercury Workshop](https://github.com/MercuryWorkshop), modified by [bread](https://github.com/genizy)
 - [Celeste 3D](https://github.com/gays-studio/celeste3d) - port by [aj](https://github.com/ajtabjs)
