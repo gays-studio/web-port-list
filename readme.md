@@ -191,6 +191,7 @@
 - [Plants vs Zombies: GOTY Edition](https://github.com/wszqkzqk/PvZ-Portable), [2](https://github.com/web-ports/pvz), [3](https://github.com/ajtabjs/pvzdeploy) - ported by [Zhou Qiankang](https://github.com/wszqkzqk)
 - [Plants vs Zombies: Fusion](https://github.com/gays-studio/pvzfusion) - port by [aj](https://github.com/ajtabjs)
 - [Portal](https://github.com/AlexBoops/portal-1-port) - ported by [crackers](https://github.com/woahhcrackers)
+- [POSTAL](https://github.com/leahanderson1/POSTAL-WASM) - port by [Leah Anderson](https://github.com/leahanderson1)
 - [Power Hover](https://github.com/web-ports/power-hover) - port by [bread](https://github.com/genizy)
 - [Psychopomp](https://github.com/z4laxis/PsychopompWebport) - port by [zalaxis](https://github.com/z4laxis)
 - [Quake](https://github.com/GMH-Code/Qwasm) - port by [GMH-Code](https://github.com/GMH-Code)
