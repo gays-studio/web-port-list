@@ -74,6 +74,7 @@
 - [Doom Engine](https://github.com/GMH-Code/Dwasm) - port by [GMH-Code](https://github.com/GMH-Code)
 - [Doom 3](https://github.com/web-ports/doom-3), [original](https://github.com/gabrielcuvillier/d3wasm) - Ported by [98corbins](https://98.c0rbin.fun/), [gabrielcuvillier](https://github.com/gabrielcuvillier)
 - [Duck Life Adventure](https://github.com/web-ports/duck-8) - Ported by [bog](https://github.com/puffrs)
+- [Dude, Stop](https://github.com/dashiellbenton/ports/tree/main/dudestop) - Ported by [dasher](https://github.com/dashiellbenton)
 - [Dumb Ways to Die (v1.6)](https://github.com/web-ports/dumb-ways-to-die) - port by [bread](https://github.com/genizy)
 - [Endacopia](https://github.com/linkawaken1979-alt/endacopia-) - port by [unanymouse](https://github.com/unanymousevr)
 - [Fear and Hunger](https://github.com/web-ports/fear-and-hunger) - port by [bread](https://github.com/genizy)
