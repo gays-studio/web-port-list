@@ -151,6 +151,7 @@
 - [KisakCOD](https://github.com/slqntdevss/kisakcod-port) - port by [slant](https://github.com/slqntdevss)
 - [Lacey's Flash Games](https://github.com/genizy/web-port/tree/main/lacysflashgames) - Ported by [bread](https://github.com/genizy)
 - [La Madriguera](https://github.com/web-ports/la-madriguera) - port by [bread](https://github.com/genizy)
+- [Leaf Blower Revolution - Idle Game](https://github.com/mtnskye/LeafBlowerRevolutionWebPort) - port by [mtnskye](https://github.com/mtnskye)
 - [LEGOLAND (1999)](https://github.com/facundosterzerforino/legoland-port) - port by [facundosterzerforino](https://github.com/facundosterzerforino)
 - [Lethal Ape](https://github.com/web-ports/lethal-ape) - port by [98Corbins](https://98.c0rbin.fun/)
 - [Limbo](https://truffled.lol/games/limbo/index.html) - Ported by [Bog](https://github.com/puffrs)
