@@ -204,7 +204,7 @@
 - [Rain World](https://stelight.games/play/webports/stellite.games/stellite/rain-world/) - Ported by [EndlessVortex](https://github.com/MovByte)
 - [Raldi's Crackhouse](https://github.com/woahhcrackers/RaldiWeb-LEGACY) - port by [crackers](https://github.com/woahhcrackers)
 - [Rabbids Go Home](https://github.com/teaserlua/rabbids-go-home-web-port) - port by [teaser.lua](https://github.com/teaserlua)
-- [R.E.P.O](https://github.com/genizy/web-port/tree/main/repo) - Ported by [98Corbins](https://98.c0rbin.fun/)
+- [R.E.P.O](https://github.com/genizy/web-port/tree/main/repo), [2](https://github.com/Vanta-git/reo) - Ported by [98Corbins](https://98.c0rbin.fun/)
 - [Rimworld](https://github.com/SomeRandomFella/portsandrips/tree/master/rimworld) - port by  [sexyplankton](https://github.com/SomeRandomFella)
 - [ROAM0120.exe](https://github.com/web-ports/roam0120) - port by [bread](https://github.com/genizy)
 - [ROUNDS](https://github.com/Nawsif/host/tree/main/ROUNDS) - port by [zaddy](https://github.com/Nawsif)
