@@ -183,6 +183,7 @@
 - [Oneshot (Legacy)](https://github.com/67-Factory/oneshotthing) - ported by [Kitaylena](https://github.com/Kitaylena)
 - [Oneshot: World Machine Edition](https://github.com/MercuryWorkshop/webshot) - ported by [Mercury Workshop](https://github.com/MercuryWorkshop)
 - [Paint the Town Red](https://github.com/Reeyuki/PttrWebport) - port by [reeyuki](https://github.com/Reeyuki)
+- [Papers, Please](https://github.com/dashiellbenton/ports/tree/main/papersplease) - Ported by [dasher](https://github.com/dashiellbenton)
 - [Patrick’s Parabox](https://github.com/puffrs/patrickparaboxweb) - Ported by [bog](https://github.com/puffrs)
 - [PEAK](https://github.com/wasmdotrip/Peak-Port) - port by [dasher](https://github.com/dashiellbenton)
 - [Peaks of Yore](https://github.com/web-ports/peaks-of-yore) - port by [bread](https://github.com/genizy)
