@@ -60,6 +60,7 @@
 - [Cuphead](https://github.com/web-ports/cuphead/), [2](https://github.com/woahhcrackers/CupheadWeb) - Ported by [bread](https://github.com/genizy), Decomp by [SpanishFreddy](https://github.com/spanishfreddy) and [koi/_flixel](https://oldgrounds.xyz/)
 - [Clustertruck](https://github.com/wasmdotrip/Clustertruck-Port) - port by [NotRexed](https://github.com/NotRexed)
 - [Cruelty Squad](https://github.com/imt00dizzy/cruelty-squad), [2](https://github.com/web-ports/cruelty-squad) - port by [dizzy](https://github.com/imt00dizzy)
+- [Cut The Rope: Ascension To Heaven](https://github.com/ajtabjs/wl-ports2/tree/main/ctr-ath) - port by [aj](https://github.com/ajtabjs)
 - [Dead Plate](https://github.com/genizy/web-port/tree/main/dead-plate) - Ported by [bread](https://github.com/genizy)
 - [Dawnfolk](https://github.com/degloved-net/dawnfolk) - port by [cirsius](https://github.com/cirsius)
 - [Deltarune](https://github.com/Mollomm1/test) - port by [Mollomm1](https://github.com/Mollomm1)
