@@ -90,6 +90,7 @@
 - [Feed the Pit](https://github.com/idkdl/feedthepit-src) - port by [wind](https://github.com/idkdl)
 - [Fears to Fathom: Home Alone](https://github.com/slqntdevss/FTFHAPort) - Ported by [slqnt](https://github.com/slqntdevss)
 - [FIH](https://github.com/InsayneBoko/fih-port/tree/main/port) - port by [InsayneBoko](https://github.com/InsayneBoko)
+- [Find The Needle](https://nawsif.github.io/FindTheNeedle/) - port by [zaddy](https://github.com/nawsif)
 - [FISH](https://github.com/web-ports/fish) - port by [bread](https://github.com/genizy)
 - [FNAF](https://github.com/genizy/fnaf/tree/main/1) - Ported by [irv77](https://github.com/irv77), fixed by [bread](https://github.com/genizy)
 - [FNAF: Blood & Gears (Demo)](https://github.com/UMMMM-GUYSSS/Five-Nights-at-Freddy-s-Blood---Gears) - port by [yourlosingblood](https://github.com/UMMMM-GUYSSS)
