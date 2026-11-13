@@ -38,6 +38,7 @@
 - [boil Noodles at Night](https://github.com/SomeRandomFella/portsandrips/tree/master/boilnoodles) - port by [sexyplankton/SomeRandomFella](https://github.com/SomeRandomFella)
 - [Brawlhalla](https://truffled.lol/games/brawlhalla/index.html) - Ported by [bog](https://github.com/puffrs)
 - [Buckshot Roulette](https://github.com/genizy/web-port/tree/main/buckshot-roulette), [2](https://github.com/Stratus-Games/Buckshot-NEWEST-Port) - Ported by [bread](https://github.com/genizy), latest ver by glitch
+- [Bloons Tower Defense 6](https://github.com/SomeRandomFella/portsandrips/tree/master/btd6) - port by [sexyplankton](https://github.com/SomeRandomFella)
 - [Brotato](https://github.com/degloved-net/brotato-web), [2](https://github.com/BlueGameMC/BrotatoWeb), [3](https://github.com/gays-studio/brotato-webport/) - ported by [Cirsius](https://github.com/Cirsius)
 - [Capuchin](https://github.com/aukak/Capuchin) - port by [bog](https://github.com/puffrs)
 - [Carmageddon](https://github.com/Carter54git/dethrace-ported-to-web) - port by [Carter54](https://github.com/Carter54git)
