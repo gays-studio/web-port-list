@@ -354,7 +354,6 @@ all by slqnt
 - [VinMannie](https://github.com/VinMannie)
 - [chromaticpipe](https://github.com/chromaticpipe)
 - [skyleite](https://github.com/skyleite)
-- [mht](https://github.com/mightyhammerheadtree)
 - [BlueGameMC](https://github.com/BlueGameMC)
 - [gays dot' studio](https://github.com/gays-studio)
 - [Vanilagy](https://github.com/Vanilagy)
