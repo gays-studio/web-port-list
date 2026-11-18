@@ -279,6 +279,7 @@
 - [The Man From the Window 2](https://github.com/wasm-rip/the-man-from-the-window-2-web) - port by dude
 - [The Math Is Leaking](https://github.com/reeyuki/themathisleaking) - port by [reeyuki](https://reeyuki.neocities.org/)
 - [The Message From Deep Space](https://github.com/dashiellbenton/ports/tree/main/tmfds) - port by [dasher](https://github.com/dashiellbenton)
+- [The Stanley Parable: Ultra Deluxe](https://github.com/3cfl/stanley-parable-ud-webport) - port by [apollo](https://github.com/3cfl)
 - [There's a Butcher Around](https://github.com/usheje883-maker/There-s-A-Butcher-Around-Webport) - port by [ThatWirdGuy2](https://github.com/usheje883-maker)
 - [There is No Game: Wrong Dimension](https://github.com/dashiellbenton/ports-data/tree/main/ting-wd) - port by [dasher](https://github.com/dashiellbenton)
 - [Totally Accurate Battle Simulator](https://github.com/web-ports/tabs), [2](https://github.com/Reeyuki/Tabs) - port by bread, reeyuki
