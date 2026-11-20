@@ -60,7 +60,6 @@
 - [Clover Pit](https://github.com/web-ports/clover-pit) - port by [bread](https://github.com/genizy)
 - [Counter Strike 2019](https://webstrike.me) - port by [onpeek](https://github.com/onpeek)
 - [Counter Strike 1.6](https://github.com/woahhcrackers/Global-Strike) - port by [crackers](https://github.com/woahhcrackers/Global-Strike)
-- [Counter Strike & Half Life](https://github.com/yohimik/webxash3d-fwgs), [frontend](https://github.com/x8BitRain/webXash/), [2](https://github.com/Pixelsuft/hl) - port by [yohimik](https://github.com/yohimik)
 - [Cuphead](https://github.com/web-ports/cuphead/), [2](https://github.com/woahhcrackers/CupheadWeb) - Ported by [bread](https://github.com/genizy), Decomp by [SpanishFreddy](https://github.com/spanishfreddy) and [koi/_flixel](https://oldgrounds.xyz/)
 - [Clustertruck](https://github.com/wasmdotrip/Clustertruck-Port) - port by [NotRexed](https://github.com/NotRexed)
 - [Cruelty Squad](https://github.com/imt00dizzy/cruelty-squad), [2](https://github.com/web-ports/cruelty-squad) - port by [dizzy](https://github.com/imt00dizzy)
