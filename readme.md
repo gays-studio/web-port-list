@@ -138,7 +138,7 @@
 - [Horsey Game](https://github.com/woahhcrackers/HorseyGameWeb) - Ported by [Crackers](https://github.com/woahhcrackers/GTA3Web)
 - [Hotline Miami](https://github.com/genizy/web-port/tree/main/hotline-miami) - Ported by [98Corbins](https://98.c0rbin.fun/)
 - [Hollow Knight](https://github.com/aukak/hollow-knight), [2](https://github.com/NOTAHACKER9999/Hollow-Knight-Port) - port by [bog](https://github.com/puffrs)
-- [Hollow Knight: Silksong](https://github.com/web-ports/hollow-knight-silksong)
+- [Hollow Knight: Silksong](https://github.com/web-ports/hollow-knight-silksong), [FULLY FIXED AND WORKING](https://github.com/30nnguyen/silksong-webport) - fixed by [30nnguyen](https://github.com/30nnguyen)
 - [How to Fish](https://github.com/NotRexed/HowToFishPort) - port by [NotRexed](https://github.com/NotRexed)
 - [Horse Magnifier](https://github.com/AlexBoops/horse-magnifier-port) - port by [Pixel](https://github.com/pixelkat5)
 - [HYDROGEN](https://github.com/BestSpark687090/bestspark-web-ports/tree/main/hydrogen) - port by [BestSpark687090](https://github.com/BestSpark687090)
