@@ -227,6 +227,7 @@
 - [Rimworld](https://github.com/SomeRandomFella/portsandrips/tree/master/rimworld) - port by  [sexyplankton](https://github.com/SomeRandomFella)
 - [ROAM0120.exe](https://github.com/web-ports/roam0120) - port by [bread](https://github.com/genizy)
 - [ROUNDS](https://github.com/Nawsif/host/tree/main/ROUNDS) - port by [zaddy](https://github.com/Nawsif)
+- [Rhythia](https://github.com/3cfl/rhythia-web-port) - port by [apollo](https://github.com/3cfl)
 - [Saihate Station](https://github.com/web-ports/saihate-station) - port by [bread](https://github.com/genizy)
 - [Sally Face](https://github.com/web-ports/sally-face) - port by [bread](https://github.com/genizy)
 - [Scoutdingo](https://github.com/web-ports/scoutdingo) - port by [burnedpopcorn](https://github.com/burnedpopcorn)
